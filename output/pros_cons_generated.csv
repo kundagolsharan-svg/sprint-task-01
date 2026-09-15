@@ -1,0 +1,463 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+ABB,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+ABB,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+ABB,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+ABB,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+ABB,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+ABB,con,C00,Continued monitoring of financial and operating performance is warranted,61
+ADANIENSOL,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+ADANIENSOL,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+ADANIENSOL,con,C00,Continued monitoring of financial and operating performance is warranted,61
+ADANIENT,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+ADANIENT,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+ADANIENT,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+ADANIENT,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+ADANIENT,con,C00,Continued monitoring of financial and operating performance is warranted,61
+ADANIGREEN,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+ADANIGREEN,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+ADANIGREEN,con,C01,Debt-to-equity ratio of 6.38 is elevated for a non-financial company and warrants monitoring,88
+ADANIPORTS,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+ADANIPORTS,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+ADANIPORTS,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+ADANIPORTS,con,C00,Continued monitoring of financial and operating performance is warranted,61
+ADANIPOWER,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+ADANIPOWER,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+ADANIPOWER,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+ADANIPOWER,con,C00,Continued monitoring of financial and operating performance is warranted,61
+AMBUJACEM,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+AMBUJACEM,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+AMBUJACEM,con,C12,Revenue growing at below 5% over 5 years suggests limited business momentum,72
+APOLLOHOSP,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+APOLLOHOSP,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+APOLLOHOSP,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+APOLLOHOSP,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+APOLLOHOSP,con,C00,Continued monitoring of financial and operating performance is warranted,61
+ASIANPAINT,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+ASIANPAINT,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+ASIANPAINT,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+ASIANPAINT,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+ASIANPAINT,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+ASIANPAINT,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+ASIANPAINT,con,C00,Continued monitoring of financial and operating performance is warranted,61
+ATGL,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+ATGL,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+ATGL,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+ATGL,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+ATGL,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+ATGL,con,C00,Continued monitoring of financial and operating performance is warranted,61
+AXISBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+AXISBANK,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+AXISBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+AXISBANK,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+AXISBANK,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+BAJAJ-AUTO,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+BAJAJ-AUTO,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+BAJAJ-AUTO,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+BAJAJ-AUTO,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+BAJAJ-AUTO,con,C00,Continued monitoring of financial and operating performance is warranted,61
+BAJAJFINSV,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+BAJAJFINSV,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+BAJAJFINSV,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+BAJAJFINSV,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+BAJAJFINSV,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+BAJAJFINSV,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+BAJAJFINSV,con,C00,Continued monitoring of financial and operating performance is warranted,61
+BAJAJHLDNG,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+BAJAJHLDNG,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+BAJAJHLDNG,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+BAJAJHLDNG,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+BAJAJHLDNG,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+BAJAJHLDNG,con,C00,Continued monitoring of financial and operating performance is warranted,61
+BAJFINANCE,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+BAJFINANCE,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+BAJFINANCE,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+BAJFINANCE,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+BAJFINANCE,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+BAJFINANCE,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+BAJFINANCE,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+BANKBARODA,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+BANKBARODA,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+BANKBARODA,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+BANKBARODA,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+BANKBARODA,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+BANKBARODA,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+BEL,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+BEL,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+BEL,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+BEL,con,C00,Continued monitoring of financial and operating performance is warranted,61
+BHARTIARTL,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+BHARTIARTL,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+BHARTIARTL,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+BHARTIARTL,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+BHARTIARTL,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+BHARTIARTL,con,C01,Debt-to-equity ratio of 2.59 is elevated for a non-financial company and warrants monitoring,88
+BHEL,pro,P00,Established operating history and diversified business platform,61
+BHEL,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+BHEL,con,C12,Revenue growing at below 5% over 5 years suggests limited business momentum,72
+BOSCHLTD,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+BOSCHLTD,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+BOSCHLTD,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+BOSCHLTD,con,C00,Continued monitoring of financial and operating performance is warranted,61
+BPCL,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+BPCL,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+BPCL,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+BPCL,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+BPCL,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+BPCL,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+BPCL,con,C00,Continued monitoring of financial and operating performance is warranted,61
+BRITANNIA,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+BRITANNIA,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+BRITANNIA,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+BRITANNIA,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+BRITANNIA,con,C00,Continued monitoring of financial and operating performance is warranted,61
+CANBK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+CANBK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+CANBK,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+CANBK,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+CANBK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+CANBK,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+CANBK,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+CHOLAFIN,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+CHOLAFIN,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+CHOLAFIN,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+CHOLAFIN,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+CHOLAFIN,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+CHOLAFIN,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+CHOLAFIN,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+CIPLA,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+CIPLA,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+CIPLA,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+CIPLA,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+CIPLA,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+CIPLA,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+CIPLA,con,C00,Continued monitoring of financial and operating performance is warranted,61
+COALINDIA,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+COALINDIA,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+COALINDIA,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+COALINDIA,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+COALINDIA,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COALINDIA,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+COALINDIA,con,C00,Continued monitoring of financial and operating performance is warranted,61
+DABUR,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+DABUR,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+DABUR,con,C00,Continued monitoring of financial and operating performance is warranted,61
+DIVISLAB,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+DIVISLAB,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+DIVISLAB,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+DIVISLAB,con,C00,Continued monitoring of financial and operating performance is warranted,61
+DLF,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+DLF,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+DLF,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+DLF,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+DLF,con,C12,Revenue growing at below 5% over 5 years suggests limited business momentum,72
+DMART,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+DMART,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+DMART,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+DMART,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+DMART,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+DMART,con,C00,Continued monitoring of financial and operating performance is warranted,61
+DRREDDY,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+DRREDDY,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+DRREDDY,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+DRREDDY,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+DRREDDY,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+DRREDDY,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+DRREDDY,con,C00,Continued monitoring of financial and operating performance is warranted,61
+EICHERMOT,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+EICHERMOT,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+EICHERMOT,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+EICHERMOT,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+EICHERMOT,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+EICHERMOT,con,C00,Continued monitoring of financial and operating performance is warranted,61
+GAIL,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+GAIL,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+GAIL,con,C00,Continued monitoring of financial and operating performance is warranted,61
+GODREJCP,pro,P00,Established operating history and diversified business platform,61
+GODREJCP,con,C04,Company reported a net loss in the most recent financial year,92
+GODREJCP,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+GRASIM,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+GRASIM,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+GRASIM,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+GRASIM,con,C00,Continued monitoring of financial and operating performance is warranted,61
+HAL,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+HAL,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+HAL,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+HAL,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+HAL,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+HAL,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+HAL,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+HAL,con,C00,Continued monitoring of financial and operating performance is warranted,61
+HAVELLS,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+HAVELLS,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+HAVELLS,con,C00,Continued monitoring of financial and operating performance is warranted,61
+HCLTECH,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+HCLTECH,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+HCLTECH,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+HCLTECH,con,C00,Continued monitoring of financial and operating performance is warranted,61
+HDFCBANK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+HDFCBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+HDFCBANK,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+HDFCBANK,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+HDFCBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+HDFCBANK,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+HDFCBANK,con,C06,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,88
+HDFCBANK,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+HDFCLIFE,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+HDFCLIFE,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+HDFCLIFE,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+HDFCLIFE,con,C00,Continued monitoring of financial and operating performance is warranted,61
+HEROMOTOCO,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+HEROMOTOCO,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+HEROMOTOCO,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+HEROMOTOCO,con,C12,Revenue growing at below 5% over 5 years suggests limited business momentum,72
+HINDALCO,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+HINDALCO,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+HINDALCO,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+HINDALCO,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+HINDALCO,con,C00,Continued monitoring of financial and operating performance is warranted,61
+HINDUNILVR,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+HINDUNILVR,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+HINDUNILVR,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+HINDUNILVR,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+HINDUNILVR,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+HINDUNILVR,con,C00,Continued monitoring of financial and operating performance is warranted,61
+ICICIBANK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+ICICIBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+ICICIBANK,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+ICICIBANK,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+ICICIBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+ICICIBANK,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+ICICIBANK,con,C06,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,88
+ICICIBANK,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+ICICIGI,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,90
+ICICIGI,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+ICICIGI,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+ICICIGI,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+ICICIGI,con,C00,Continued monitoring of financial and operating performance is warranted,61
+ICICIPRULI,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,90
+ICICIPRULI,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+ICICIPRULI,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+ICICIPRULI,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+ICICIPRULI,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+ICICIPRULI,con,C00,Continued monitoring of financial and operating performance is warranted,61
+INDIGO,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+INDIGO,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+INDIGO,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+INDIGO,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+INDIGO,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+INDIGO,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+INDIGO,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+INDIGO,con,C00,Continued monitoring of financial and operating performance is warranted,61
+INDUSINDBK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+INDUSINDBK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+INDUSINDBK,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+INDUSINDBK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+INDUSINDBK,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+INDUSINDBK,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+INFY,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+INFY,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+INFY,con,C00,Continued monitoring of financial and operating performance is warranted,61
+IOC,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+IOC,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+IOC,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+IOC,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+IOC,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+IOC,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+IOC,con,C00,Continued monitoring of financial and operating performance is warranted,61
+IRCTC,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+IRCTC,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+IRCTC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+IRCTC,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+IRCTC,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+IRCTC,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+IRCTC,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+IRCTC,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+IRCTC,con,C00,Continued monitoring of financial and operating performance is warranted,61
+IRFC,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+IRFC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+IRFC,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+IRFC,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+IRFC,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+IRFC,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+IRFC,con,C06,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,88
+IRFC,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+ITC,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+ITC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+ITC,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+ITC,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+ITC,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+ITC,con,C00,Continued monitoring of financial and operating performance is warranted,61
+JINDALSTEL,pro,P00,Established operating history and diversified business platform,61
+JINDALSTEL,con,C12,Revenue growing at below 5% over 5 years suggests limited business momentum,72
+JIOFIN,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,90
+JIOFIN,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+JIOFIN,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+JIOFIN,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+JSWENERGY,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+JSWENERGY,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+JSWENERGY,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+JSWENERGY,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+JSWENERGY,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+JSWENERGY,con,C12,Revenue growing at below 5% over 5 years suggests limited business momentum,72
+JSWSTEEL,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+JSWSTEEL,con,C00,Continued monitoring of financial and operating performance is warranted,61
+KOTAKBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+KOTAKBANK,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+KOTAKBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+KOTAKBANK,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+KOTAKBANK,con,C06,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,88
+KOTAKBANK,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+LICI,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+LICI,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+LICI,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+LICI,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+LICI,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+LICI,con,C00,Continued monitoring of financial and operating performance is warranted,61
+LODHA,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+LODHA,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+LODHA,con,C12,Revenue growing at below 5% over 5 years suggests limited business momentum,72
+LT,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+LT,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+LT,con,C00,Continued monitoring of financial and operating performance is warranted,61
+LTIM,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+LTIM,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+LTIM,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+LTIM,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+LTIM,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+LTIM,con,C00,Continued monitoring of financial and operating performance is warranted,61
+M&M,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+M&M,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+M&M,con,C00,Continued monitoring of financial and operating performance is warranted,61
+MARUTI,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+MARUTI,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+MARUTI,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+MARUTI,con,C00,Continued monitoring of financial and operating performance is warranted,61
+MOTHERSON,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+MOTHERSON,con,C00,Continued monitoring of financial and operating performance is warranted,61
+NAUKRI,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+NAUKRI,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+NAUKRI,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+NAUKRI,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+NESTLEIND,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+NESTLEIND,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+NESTLEIND,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+NESTLEIND,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+NESTLEIND,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+NESTLEIND,con,C00,Continued monitoring of financial and operating performance is warranted,61
+NHPC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+NHPC,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+NHPC,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+NHPC,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+NHPC,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+NHPC,con,C12,Revenue growing at below 5% over 5 years suggests limited business momentum,72
+NTPC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+NTPC,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+NTPC,con,C00,Continued monitoring of financial and operating performance is warranted,61
+ONGC,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+ONGC,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+ONGC,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+ONGC,con,C00,Continued monitoring of financial and operating performance is warranted,61
+PFC,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+PFC,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+PFC,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+PFC,con,C06,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,88
+PFC,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+PIDILITIND,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+PIDILITIND,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+PIDILITIND,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+PIDILITIND,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+PIDILITIND,con,C00,Continued monitoring of financial and operating performance is warranted,61
+PNB,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+PNB,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+PNB,con,C06,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,88
+POWERGRID,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+POWERGRID,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+POWERGRID,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+POWERGRID,con,C00,Continued monitoring of financial and operating performance is warranted,61
+RECLTD,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+RECLTD,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+RECLTD,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+RECLTD,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+RELIANCE,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+RELIANCE,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+RELIANCE,con,C00,Continued monitoring of financial and operating performance is warranted,61
+SBILIFE,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,90
+SBILIFE,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+SBILIFE,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+SBILIFE,con,C00,Continued monitoring of financial and operating performance is warranted,61
+SBIN,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,90
+SBIN,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+SBIN,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+SBIN,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+SBIN,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+SBIN,con,C06,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,88
+SHREECEM,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+SHREECEM,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+SHREECEM,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+SHREECEM,con,C00,Continued monitoring of financial and operating performance is warranted,61
+SHRIRAMFIN,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+SHRIRAMFIN,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+SHRIRAMFIN,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+SHRIRAMFIN,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+SHRIRAMFIN,con,C06,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,88
+SHRIRAMFIN,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+SIEMENS,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+SIEMENS,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+SIEMENS,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+SIEMENS,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+SIEMENS,con,C00,Continued monitoring of financial and operating performance is warranted,61
+SUNPHARMA,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+SUNPHARMA,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+SUNPHARMA,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+SUNPHARMA,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+SUNPHARMA,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+SUNPHARMA,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+SUNPHARMA,con,C00,Continued monitoring of financial and operating performance is warranted,61
+TATACONSUM,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+TATACONSUM,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+TATACONSUM,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+TATACONSUM,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+TATACONSUM,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+TATACONSUM,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+TATAMOTORS,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+TATAMOTORS,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+TATAMOTORS,con,C00,Continued monitoring of financial and operating performance is warranted,61
+TATAPOWER,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+TATAPOWER,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+TATAPOWER,con,C00,Continued monitoring of financial and operating performance is warranted,61
+TATASTEEL,pro,P00,Established operating history and diversified business platform,61
+TATASTEEL,con,C04,Company reported a net loss in the most recent financial year,92
+TATASTEEL,con,C10,Return on capital employed below 10% suggests insufficient returns on invested capital,76
+TCS,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+TCS,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+TCS,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+TCS,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+TCS,con,C00,Continued monitoring of financial and operating performance is warranted,61
+TECHM,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,78
+TECHM,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+TECHM,con,C07,Dividend payout ratio above 100% may be unsustainable,82
+TITAN,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+TITAN,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+TITAN,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+TITAN,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+TITAN,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+TITAN,con,C01,Debt-to-equity ratio of 2.22 is elevated for a non-financial company and warrants monitoring,88
+TORNTPHARM,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+TORNTPHARM,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,80
+TORNTPHARM,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+TORNTPHARM,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+TORNTPHARM,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+TORNTPHARM,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+TORNTPHARM,con,C00,Continued monitoring of financial and operating performance is warranted,61
+TRENT,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+TRENT,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,82
+TRENT,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,82
+TRENT,pro,P08,Consistent dividend yield backed by positive free cash flow,74
+TRENT,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+TRENT,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+TRENT,con,C00,Continued monitoring of financial and operating performance is warranted,61
+TVSMOTOR,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,85
+TVSMOTOR,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+TVSMOTOR,pro,P11,Profit growth ahead of revenue growth shows improving operating leverage and scale benefits,72
+TVSMOTOR,con,C00,Continued monitoring of financial and operating performance is warranted,61

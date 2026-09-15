@@ -1,0 +1,1359 @@
+ABB,2012: ROCE differs from source by >5%; category=version difference; computed=36.321483771251934; source=46.0
+ABB,2012: ROE differs from source by >5%; category=data source issue; computed=22.411128284389488; source=34.9
+ABB,2014: ROCE differs from source by >5%; category=version difference; computed=40.10152284263959; source=46.0
+ABB,2014: ROE differs from source by >5%; category=data source issue; computed=25.12690355329949; source=34.9
+ABB,2015: ROCE differs from source by >5%; category=version difference; computed=38.4204909284952; source=46.0
+ABB,2015: ROE differs from source by >5%; category=data source issue; computed=24.439701173959445; source=34.9
+ABB,2016: ROCE differs from source by >5%; category=version difference; computed=34.72803347280335; source=46.0
+ABB,2016: ROE differs from source by >5%; category=data source issue; computed=21.338912133891213; source=34.9
+ABB,2017: ROCE differs from source by >5%; category=version difference; computed=32.804614275414565; source=46.0
+ABB,2017: ROE differs from source by >5%; category=data source issue; computed=19.971160778658977; source=34.9
+ABB,2018: ROCE differs from source by >5%; category=version difference; computed=37.92085056113408; source=46.0
+ABB,2018: ROE differs from source by >5%; category=data source issue; computed=23.685764914353218; source=34.9
+ABB,2019: ROCE differs from source by >5%; category=version difference; computed=35.756972111553786; source=46.0
+ABB,2019: ROE differs from source by >5%; category=data source issue; computed=22.410358565737052; source=34.9
+ABB,2020: ROCE differs from source by >5%; category=version difference; computed=33.42287029930929; source=46.0
+ABB,2020: ROE differs from source by >5%; category=data source issue; computed=24.39325380501851; source=34.9
+ABB,2021: ROCE differs from source by >5%; category=version difference; computed=36.40653357531761; source=46.0
+ABB,2021: ROE differs from source by >5%; category=data source issue; computed=26.5564950038432; source=34.9
+ABB,2022: ROCE differs from source by >5%; category=version difference; computed=39.19919246298789; source=46.0
+ABB,2022: ROE differs from source by >5%; category=data source issue; computed=28.333333333333332; source=34.9
+ABB,2023: ROE differs from source by >5%; category=data source issue; computed=29.767879548306148; source=34.9
+ADANIENSOL,2014: ROCE differs from source by >5%; category=version difference; computed=0.0; source=9.0
+ADANIENSOL,2014: ROE differs from source by >5%; category=data source issue; computed=0.0; source=8.59
+ADANIENSOL,2015: ROCE differs from source by >5%; category=version difference; computed=0.9643916913946587; source=9.0
+ADANIENSOL,2015: ROE differs from source by >5%; category=data source issue; computed=-0.6463527239150507; source=8.59
+ADANIENSOL,2016: ROCE differs from source by >5%; category=version difference; computed=17.740072843564008; source=9.0
+ADANIENSOL,2016: ROE differs from source by >5%; category=data source issue; computed=13.77245508982036; source=8.59
+ADANIENSOL,2017: ROCE differs from source by >5%; category=version difference; computed=16.817648045629927; source=9.0
+ADANIENSOL,2017: ROE differs from source by >5%; category=data source issue; computed=14.116050220563285; source=8.59
+ADANIENSOL,2018: ROCE differs from source by >5%; category=version difference; computed=17.81619654231119; source=9.0
+ADANIENSOL,2018: ROE differs from source by >5%; category=data source issue; computed=18.87072808320951; source=8.59
+ADANIENSOL,2021: ROCE differs from source by >5%; category=version difference; computed=14.06397512078636; source=9.0
+ADANIENSOL,2021: ROE differs from source by >5%; category=data source issue; computed=14.46350487722839; source=8.59
+ADANIENSOL,2024: OPM mismatch; category=data source issue; computed=34.38911302462817; source=30.0
+ADANIENT,2013: ROE differs from source by >5%; category=data source issue; computed=5.692652832305104; source=13.64
+ADANIENT,2016: ROE differs from source by >5%; category=data source issue; computed=7.4749588877261175; source=13.64
+ADANIENT,2017: ROE differs from source by >5%; category=data source issue; computed=6.543576683644596; source=13.64
+ADANIENT,2018: ROE differs from source by >5%; category=data source issue; computed=3.936642587315263; source=13.64
+ADANIENT,2019: ROE differs from source by >5%; category=data source issue; computed=3.429113580916238; source=13.64
+ADANIENT,2020: ROE differs from source by >5%; category=data source issue; computed=6.136779370980115; source=13.64
+ADANIENT,2021: ROE differs from source by >5%; category=data source issue; computed=6.0959263360335685; source=13.64
+ADANIENT,2022: ROE differs from source by >5%; category=data source issue; computed=3.5404591813811384; source=13.64
+ADANIENT,2023: ROE differs from source by >5%; category=data source issue; computed=7.328068742246831; source=13.64
+ADANIENT,2024: ROE differs from source by >5%; category=data source issue; computed=7.960187130036281; source=13.64
+ADANIGREEN,2017: ROCE differs from source by >5%; category=version difference; computed=8.702702702702702; source=96.5
+ADANIGREEN,2017: ROE differs from source by >5%; category=data source issue; computed=-3.906899418121363; source=14.7
+ADANIGREEN,2018: ROCE differs from source by >5%; category=version difference; computed=7.898259705488621; source=96.5
+ADANIGREEN,2018: ROE differs from source by >5%; category=data source issue; computed=-10.290827740492169; source=14.7
+ADANIGREEN,2019: ROCE differs from source by >5%; category=version difference; computed=12.22944550669216; source=96.5
+ADANIGREEN,2019: ROE differs from source by >5%; category=data source issue; computed=-24.573202276254527; source=14.7
+ADANIGREEN,2020: ROCE differs from source by >5%; category=version difference; computed=7.774487603785636; source=96.5
+ADANIGREEN,2020: ROE differs from source by >5%; category=data source issue; computed=-2.8850233347475602; source=14.7
+ADANIGREEN,2021: ROCE differs from source by >5%; category=version difference; computed=9.96629936763982; source=96.5
+ADANIGREEN,2021: ROE differs from source by >5%; category=data source issue; computed=8.272727272727273; source=14.7
+ADANIGREEN,2022: ROCE differs from source by >5%; category=version difference; computed=7.248494030227609; source=96.5
+ADANIGREEN,2023: ROCE differs from source by >5%; category=version difference; computed=9.161831391096593; source=96.5
+ADANIGREEN,2024: ROCE differs from source by >5%; category=version difference; computed=10.999153911237597; source=96.5
+ADANIPORTS,2013: ROE differs from source by >5%; category=data source issue; computed=25.633406318423525; source=18.1
+ADANIPORTS,2018: ROCE differs from source by >5%; category=version difference; computed=18.489589351327616; source=12.9
+ADANIPORTS,2022: ROE differs from source by >5%; category=data source issue; computed=11.843332297171278; source=18.1
+ADANIPORTS,2023: ROE differs from source by >5%; category=data source issue; computed=11.8773271056864; source=18.1
+ADANIPOWER,2013: ROCE differs from source by >5%; category=version difference; computed=2.5494705780246485; source=32.2
+ADANIPOWER,2013: ROE differs from source by >5%; category=data source issue; computed=-53.459119496855344; source=57.1
+ADANIPOWER,2014: ROCE differs from source by >5%; category=version difference; computed=9.330676819284713; source=32.2
+ADANIPOWER,2014: ROE differs from source by >5%; category=data source issue; computed=-4.447501146263182; source=57.1
+ADANIPOWER,2015: ROCE differs from source by >5%; category=version difference; computed=11.623437097509264; source=32.2
+ADANIPOWER,2015: ROE differs from source by >5%; category=data source issue; computed=-14.253275109170305; source=57.1
+ADANIPOWER,2016: ROCE differs from source by >5%; category=version difference; computed=14.28808744621825; source=32.2
+ADANIPOWER,2016: ROE differs from source by >5%; category=data source issue; computed=7.378146759507231; source=57.1
+ADANIPOWER,2017: ROCE differs from source by >5%; category=version difference; computed=4.170571696344892; source=32.2
+ADANIPOWER,2017: ROE differs from source by >5%; category=data source issue; computed=-205.79999999999998; source=57.1
+ADANIPOWER,2018: ROCE differs from source by >5%; category=version difference; computed=11.52185243094334; source=32.2
+ADANIPOWER,2018: ROE differs from source by >5%; category=data source issue; computed=-236.55793025871765; source=57.1
+ADANIPOWER,2019: ROCE differs from source by >5%; category=version difference; computed=13.58699627002121; source=32.2
+ADANIPOWER,2019: ROE differs from source by >5%; category=data source issue; computed=-12.759336099585061; source=57.1
+ADANIPOWER,2020: ROCE differs from source by >5%; category=version difference; computed=9.820038910505836; source=32.2
+ADANIPOWER,2020: ROE differs from source by >5%; category=data source issue; computed=-35.102607622280516; source=57.1
+ADANIPOWER,2021: ROCE differs from source by >5%; category=version difference; computed=16.146087274500243; source=32.2
+ADANIPOWER,2021: ROE differs from source by >5%; category=data source issue; computed=9.685045374818882; source=57.1
+ADANIPOWER,2022: ROCE differs from source by >5%; category=version difference; computed=20.397325522913523; source=32.2
+ADANIPOWER,2022: ROE differs from source by >5%; category=data source issue; computed=26.613209080565635; source=57.1
+ADANIPOWER,2023: ROCE differs from source by >5%; category=version difference; computed=19.815578877412566; source=32.2
+ADANIPOWER,2023: ROE differs from source by >5%; category=data source issue; computed=35.90507430713616; source=57.1
+ADANIPOWER,2024: ROE differs from source by >5%; category=data source issue; computed=37.22522071701755; source=57.1
+AMBUJACEM,2012: ROCE differs from source by >5%; category=version difference; computed=28.70046291069211; source=12.8
+AMBUJACEM,2012: ROE differs from source by >5%; category=data source issue; computed=14.686825053995682; source=9.24
+AMBUJACEM,2013: ROCE differs from source by >5%; category=version difference; computed=21.650893796004205; source=12.8
+AMBUJACEM,2014: ROCE differs from source by >5%; category=version difference; computed=23.28780680918448; source=12.8
+AMBUJACEM,2014: ROE differs from source by >5%; category=data source issue; computed=14.766633565044687; source=9.24
+AMBUJACEM,2015: ROCE differs from source by >5%; category=version difference; computed=18.3873471764021; source=12.8
+AMBUJACEM,2016: ROCE differs from source by >5%; category=version difference; computed=18.24685138539043; source=12.8
+AMBUJACEM,2017: ROCE differs from source by >5%; category=version difference; computed=20.259953614224973; source=12.8
+AMBUJACEM,2018: ROCE differs from source by >5%; category=version difference; computed=18.93351182507809; source=12.8
+AMBUJACEM,2019: ROCE differs from source by >5%; category=version difference; computed=21.55147394170571; source=12.8
+AMBUJACEM,2020: ROCE differs from source by >5%; category=version difference; computed=22.791458584467023; source=12.8
+AMBUJACEM,2021: ROCE differs from source by >5%; category=version difference; computed=25.016453098989587; source=12.8
+AMBUJACEM,2021: ROE differs from source by >5%; category=data source issue; computed=14.636743709079436; source=9.24
+APOLLOHOSP,2016: ROE differs from source by >5%; category=data source issue; computed=7.052821128451381; source=13.81
+APOLLOHOSP,2017: ROE differs from source by >5%; category=data source issue; computed=3.952926976463488; source=13.81
+APOLLOHOSP,2018: ROE differs from source by >5%; category=data source issue; computed=1.8450184501845017; source=13.81
+APOLLOHOSP,2019: ROE differs from source by >5%; category=data source issue; computed=5.9988002399520095; source=13.81
+APOLLOHOSP,2020: ROCE differs from source by >5%; category=version difference; computed=26.13898500576701; source=17.2
+APOLLOHOSP,2021: ROE differs from source by >5%; category=data source issue; computed=2.976319791440365; source=13.81
+APOLLOHOSP,2022: ROCE differs from source by >5%; category=version difference; computed=26.385305953977916; source=17.2
+APOLLOHOSP,2022: ROE differs from source by >5%; category=data source issue; computed=19.704783923172684; source=13.81
+ASIANPAINT,2013: ROCE differs from source by >5%; category=version difference; computed=50.92159559834938; source=41.75
+ASIANPAINT,2014: ROCE differs from source by >5%; category=version difference; computed=49.62686567164179; source=41.75
+ASIANPAINT,2018: ROE differs from source by >5%; category=data source issue; computed=24.94649227110583; source=31.45
+ASIANPAINT,2019: ROE differs from source by >5%; category=data source issue; computed=23.3132720937599; source=31.45
+ASIANPAINT,2021: ROE differs from source by >5%; category=data source issue; computed=25.042948617835393; source=31.45
+ASIANPAINT,2022: ROCE differs from source by >5%; category=version difference; computed=33.11903370348724; source=41.75
+ASIANPAINT,2022: ROE differs from source by >5%; category=data source issue; computed=22.335650159281784; source=31.45
+ASIANPAINT,2023: ROE differs from source by >5%; category=data source issue; computed=26.231865932966482; source=31.45
+ATGL,2019: ROCE differs from source by >5%; category=version difference; computed=34.35828877005348; source=21.2
+ATGL,2020: ROCE differs from source by >5%; category=version difference; computed=33.649289099526065; source=21.2
+ATGL,2020: ROE differs from source by >5%; category=data source issue; computed=29.63970088375255; source=20.5
+ATGL,2021: ROCE differs from source by >5%; category=version difference; computed=29.80105562322371; source=21.2
+AXISBANK,2013: OPM mismatch; category=data source issue; computed=30.58161350844278; source=1353.0
+AXISBANK,2014: OPM mismatch; category=data source issue; computed=31.474168597630626; source=2307.0
+AXISBANK,2015: OPM mismatch; category=data source issue; computed=31.36221426759492; source=3097.0
+AXISBANK,2016: OPM mismatch; category=data source issue; computed=32.611983995315704; source=3466.0
+AXISBANK,2017: OPM mismatch; category=data source issue; computed=53.450675766692115; source=-5715.0
+AXISBANK,2017: ROE differs from source by >5%; category=data source issue; computed=6.525363604114934; source=18.4
+AXISBANK,2018: OPM mismatch; category=data source issue; computed=63.11708169506335; source=-10277.0
+AXISBANK,2018: ROE differs from source by >5%; category=data source issue; computed=0.42985967262136526; source=18.4
+AXISBANK,2019: OPM mismatch; category=data source issue; computed=49.385298075873855; source=-5447.0
+AXISBANK,2019: ROE differs from source by >5%; category=data source issue; computed=6.898026606884752; source=18.4
+AXISBANK,2020: OPM mismatch; category=data source issue; computed=55.984673106090845; source=-9859.0
+AXISBANK,2020: ROE differs from source by >5%; category=data source issue; computed=1.8844104702339586; source=18.4
+AXISBANK,2021: OPM mismatch; category=data source issue; computed=50.119976004799035; source=-2510.0
+AXISBANK,2021: ROE differs from source by >5%; category=data source issue; computed=6.359441666505782; source=18.4
+AXISBANK,2022: OPM mismatch; category=data source issue; computed=44.4691808777476; source=3170.0
+AXISBANK,2022: ROE differs from source by >5%; category=data source issue; computed=11.01377461716035; source=18.4
+AXISBANK,2023: OPM mismatch; category=data source issue; computed=34.15645108261707; source=13857.0
+AXISBANK,2023: ROE differs from source by >5%; category=data source issue; computed=7.381666037401469; source=18.4
+AXISBANK,2024: OPM mismatch; category=data source issue; computed=34.69264599658038; source=11952.0
+AXISBANK,TTM: OPM mismatch; category=data source issue; computed=36.935495901673306; source=9061.0
+BAJAJ-AUTO,2013: ROCE differs from source by >5%; category=version difference; computed=54.34543454345434; source=33.5
+BAJAJ-AUTO,2013: ROE differs from source by >5%; category=data source issue; computed=38.84686918784873; source=26.5
+BAJAJ-AUTO,2014: ROCE differs from source by >5%; category=version difference; computed=47.30099745746138; source=33.5
+BAJAJ-AUTO,2014: ROE differs from source by >5%; category=data source issue; computed=33.24481164551982; source=26.5
+BAJAJ-AUTO,2015: ROCE differs from source by >5%; category=version difference; computed=38.86856429017578; source=33.5
+BAJAJ-AUTO,2016: ROCE differs from source by >5%; category=version difference; computed=42.34686660065073; source=33.5
+BAJAJ-AUTO,2018: ROE differs from source by >5%; category=data source issue; computed=20.656058751529986; source=26.5
+BAJAJ-AUTO,2019: ROE differs from source by >5%; category=data source issue; computed=21.211208195239532; source=26.5
+BAJAJ-AUTO,2021: ROCE differs from source by >5%; category=version difference; computed=23.75702708622326; source=33.5
+BAJAJ-AUTO,2021: ROE differs from source by >5%; category=data source issue; computed=17.808821911780882; source=26.5
+BAJAJ-AUTO,2022: ROCE differs from source by >5%; category=version difference; computed=26.449202855046362; source=33.5
+BAJAJ-AUTO,2022: ROE differs from source by >5%; category=data source issue; computed=20.650390167118793; source=26.5
+BAJAJ-AUTO,2023: ROCE differs from source by >5%; category=version difference; computed=27.70128196432205; source=33.5
+BAJAJ-AUTO,2023: ROE differs from source by >5%; category=data source issue; computed=20.638921054424088; source=26.5
+BAJAJFINSV,2013: ROE differs from source by >5%; category=data source issue; computed=28.377339143809277; source=11.72
+BAJAJFINSV,2014: ROCE differs from source by >5%; category=version difference; computed=15.593879038134565; source=21.14
+BAJAJFINSV,2014: ROE differs from source by >5%; category=data source issue; computed=23.528780068728523; source=11.72
+BAJAJFINSV,2015: ROCE differs from source by >5%; category=version difference; computed=14.75628993877169; source=21.14
+BAJAJFINSV,2015: ROE differs from source by >5%; category=data source issue; computed=21.724231220128054; source=11.72
+BAJAJFINSV,2016: ROCE differs from source by >5%; category=version difference; computed=13.570004631400897; source=21.14
+BAJAJFINSV,2016: ROE differs from source by >5%; category=data source issue; computed=20.405912199426428; source=11.72
+BAJAJFINSV,2017: ROCE differs from source by >5%; category=version difference; computed=13.522573836388185; source=21.14
+BAJAJFINSV,2017: ROE differs from source by >5%; category=data source issue; computed=21.360906445421335; source=11.72
+BAJAJFINSV,2018: ROCE differs from source by >5%; category=version difference; computed=12.51943651511987; source=21.14
+BAJAJFINSV,2018: ROE differs from source by >5%; category=data source issue; computed=20.387638529512277; source=11.72
+BAJAJFINSV,2019: ROCE differs from source by >5%; category=version difference; computed=12.177919575040082; source=21.14
+BAJAJFINSV,2019: ROE differs from source by >5%; category=data source issue; computed=22.636899747262003; source=11.72
+BAJAJFINSV,2020: ROCE differs from source by >5%; category=version difference; computed=11.518225519512471; source=21.14
+BAJAJFINSV,2020: ROE differs from source by >5%; category=data source issue; computed=19.148936170212767; source=11.72
+BAJAJFINSV,2021: ROCE differs from source by >5%; category=version difference; computed=11.950745932522171; source=21.14
+BAJAJFINSV,2021: ROE differs from source by >5%; category=data source issue; computed=20.56098241696902; source=11.72
+BAJAJFINSV,2022: ROCE differs from source by >5%; category=version difference; computed=10.655526098914738; source=21.14
+BAJAJFINSV,2022: ROE differs from source by >5%; category=data source issue; computed=20.657440306109773; source=11.72
+BAJAJFINSV,2023: ROCE differs from source by >5%; category=version difference; computed=11.547055730809674; source=21.14
+BAJAJFINSV,2023: ROE differs from source by >5%; category=data source issue; computed=26.310685887904846; source=11.72
+BAJAJFINSV,2024: ROCE differs from source by >5%; category=version difference; computed=10.563824289405686; source=21.14
+BAJAJFINSV,2024: ROE differs from source by >5%; category=data source issue; computed=22.824734723746797; source=11.72
+BAJAJHLDNG,2013: ROCE differs from source by >5%; category=version difference; computed=3.141614306428226; source=13.1
+BAJAJHLDNG,2014: ROCE differs from source by >5%; category=version difference; computed=3.375281273439453; source=13.1
+BAJAJHLDNG,2015: ROCE differs from source by >5%; category=version difference; computed=3.8751586649742404; source=13.1
+BAJAJHLDNG,2016: ROCE differs from source by >5%; category=version difference; computed=2.8509775714379124; source=13.1
+BAJAJHLDNG,2017: ROCE differs from source by >5%; category=version difference; computed=3.5694241777977322; source=13.1
+BAJAJHLDNG,2022: ROE differs from source by >5%; category=data source issue; computed=9.630736193455022; source=14.8
+BAJFINANCE,2015: OPM mismatch; category=data source issue; computed=32.49258160237389; source=1367.0
+BAJFINANCE,2015: ROCE differs from source by >5%; category=version difference; computed=5.649340327451916; source=11.9
+BAJFINANCE,2016: OPM mismatch; category=data source issue; computed=32.25099328675161; source=1986.0
+BAJFINANCE,2016: ROCE differs from source by >5%; category=version difference; computed=5.356339422298209; source=11.9
+BAJFINANCE,2017: OPM mismatch; category=data source issue; computed=32.59779338014042; source=2867.0
+BAJFINANCE,2017: ROCE differs from source by >5%; category=version difference; computed=5.57179269328802; source=11.9
+BAJFINANCE,2018: OPM mismatch; category=data source issue; computed=32.28463831790366; source=3935.0
+BAJFINANCE,2018: ROCE differs from source by >5%; category=version difference; computed=5.031248103877192; source=11.9
+BAJFINANCE,2018: ROE differs from source by >5%; category=data source issue; computed=15.749621403331652; source=22.1
+BAJFINANCE,2019: OPM mismatch; category=data source issue; computed=29.501812084167252; source=6310.0
+BAJFINANCE,2019: ROCE differs from source by >5%; category=version difference; computed=4.524879416250979; source=11.9
+BAJFINANCE,2020: OPM mismatch; category=data source issue; computed=34.72738302874043; source=7608.0
+BAJFINANCE,2020: ROCE differs from source by >5%; category=version difference; computed=5.66691748800375; source=11.9
+BAJFINANCE,2020: ROE differs from source by >5%; category=data source issue; computed=16.283098243009157; source=22.1
+BAJFINANCE,2021: OPM mismatch; category=data source issue; computed=40.63659880778315; source=6314.0
+BAJFINANCE,2021: ROCE differs from source by >5%; category=version difference; computed=6.444895343870141; source=11.9
+BAJFINANCE,2021: ROE differs from source by >5%; category=data source issue; computed=11.972479549271359; source=22.1
+BAJFINANCE,2022: OPM mismatch; category=data source issue; computed=37.546221674409786; source=9906.0
+BAJFINANCE,2022: ROCE differs from source by >5%; category=version difference; computed=5.700543205149681; source=11.9
+BAJFINANCE,2022: ROE differs from source by >5%; category=data source issue; computed=16.07759705350811; source=22.1
+BAJFINANCE,2023: OPM mismatch; category=data source issue; computed=30.65127623095313; source=16018.0
+BAJFINANCE,2023: ROCE differs from source by >5%; category=version difference; computed=4.697080372756048; source=11.9
+BAJFINANCE,2024: OPM mismatch; category=data source issue; computed=29.285818234737686; source=19987.0
+BAJFINANCE,2024: ROCE differs from source by >5%; category=version difference; computed=3.92559017665764; source=11.9
+BAJFINANCE,2024: ROE differs from source by >5%; category=data source issue; computed=16.648042118359964; source=22.1
+BAJFINANCE,TTM: OPM mismatch; category=data source issue; computed=30.416352221455067; source=21417.0
+BANKBARODA,2013: OPM mismatch; category=data source issue; computed=30.047747104988748; source=1006.0
+BANKBARODA,2014: OPM mismatch; category=data source issue; computed=29.777821713664338; source=809.0
+BANKBARODA,2015: OPM mismatch; category=data source issue; computed=29.981075364577535; source=902.0
+BANKBARODA,2015: ROE differs from source by >5%; category=data source issue; computed=9.400733019182256; source=16.7
+BANKBARODA,2016: OPM mismatch; category=data source issue; computed=55.440075110810284; source=-11700.0
+BANKBARODA,2016: ROE differs from source by >5%; category=data source issue; computed=-11.841517069383338; source=16.7
+BANKBARODA,2017: OPM mismatch; category=data source issue; computed=43.28468958694039; source=-4372.0
+BANKBARODA,2017: ROE differs from source by >5%; category=data source issue; computed=4.307242204007709; source=16.7
+BANKBARODA,2018: OPM mismatch; category=data source issue; computed=56.654941809970474; source=-9197.0
+BANKBARODA,2018: ROE differs from source by >5%; category=data source issue; computed=-3.9427908774642444; source=16.7
+BANKBARODA,2019: OPM mismatch; category=data source issue; computed=48.79408762711223; source=-5414.0
+BANKBARODA,2019: ROE differs from source by >5%; category=data source issue; computed=2.1201541930322207; source=16.7
+BANKBARODA,2020: OPM mismatch; category=data source issue; computed=51.439254705621394; source=-11728.0
+BANKBARODA,2020: ROE differs from source by >5%; category=data source issue; computed=1.2890255439924314; source=16.7
+BANKBARODA,2021: OPM mismatch; category=data source issue; computed=51.22857065963344; source=-6957.0
+BANKBARODA,2021: ROE differs from source by >5%; category=data source issue; computed=1.9662580410243962; source=16.7
+BANKBARODA,2022: OPM mismatch; category=data source issue; computed=51.12488928255093; source=-2948.0
+BANKBARODA,2022: ROE differs from source by >5%; category=data source issue; computed=8.635121749447583; source=16.7
+BANKBARODA,2023: OPM mismatch; category=data source issue; computed=40.45480037670762; source=6329.0
+BANKBARODA,2024: OPM mismatch; category=data source issue; computed=37.4889127294537; source=4102.0
+BANKBARODA,TTM: OPM mismatch; category=data source issue; computed=37.423475963397344; source=3526.0
+BEL,2013: ROCE differs from source by >5%; category=version difference; computed=4303.333333333333; source=34.6
+BEL,2013: ROE differs from source by >5%; category=data source issue; computed=15183.333333333334; source=26.3
+BEL,2014: ROCE differs from source by >5%; category=version difference; computed=4867.857142857143; source=34.6
+BEL,2014: ROE differs from source by >5%; category=data source issue; computed=13600.0; source=26.3
+BEL,2015: ROCE differs from source by >5%; category=version difference; computed=5109.090909090909; source=34.6
+BEL,2015: ROE differs from source by >5%; category=data source issue; computed=17100.0; source=26.3
+BEL,2016: ROCE differs from source by >5%; category=version difference; computed=5313.513513513513; source=34.6
+BEL,2016: ROE differs from source by >5%; category=data source issue; computed=11141.666666666668; source=26.3
+BEL,2017: ROCE differs from source by >5%; category=version difference; computed=5027.272727272727; source=34.6
+BEL,2017: ROE differs from source by >5%; category=data source issue; computed=10153.333333333334; source=26.3
+BEL,2018: ROCE differs from source by >5%; category=version difference; computed=2829.1139240506327; source=34.6
+BEL,2018: ROE differs from source by >5%; category=data source issue; computed=4616.129032258064; source=26.3
+BEL,2019: ROCE differs from source by >5%; category=version difference; computed=3106.25; source=34.6
+BEL,2019: ROE differs from source by >5%; category=data source issue; computed=3851.020408163265; source=26.3
+BEL,2020: ROCE differs from source by >5%; category=version difference; computed=2886.868686868687; source=34.6
+BEL,2020: ROE differs from source by >5%; category=data source issue; computed=3318.181818181818; source=26.3
+BEL,2021: ROCE differs from source by >5%; category=version difference; computed=3091.666666666667; source=34.6
+BEL,2021: ROE differs from source by >5%; category=data source issue; computed=3559.322033898305; source=26.3
+BEL,2022: ROCE differs from source by >5%; category=version difference; computed=2815.748031496063; source=34.6
+BEL,2022: ROE differs from source by >5%; category=data source issue; computed=3478.260869565217; source=26.3
+BEL,2023: ROCE differs from source by >5%; category=version difference; computed=3834.2105263157896; source=34.6
+BEL,2023: ROE differs from source by >5%; category=data source issue; computed=3981.333333333333; source=26.3
+BEL,2024: ROCE differs from source by >5%; category=version difference; computed=3385.207100591716; source=34.6
+BEL,2024: ROE differs from source by >5%; category=data source issue; computed=4379.120879120879; source=26.3
+BHARTIARTL,2013: ROCE differs from source by >5%; category=version difference; computed=20.60431580925695; source=13.1
+BHARTIARTL,2013: ROE differs from source by >5%; category=data source issue; computed=4.50498787806526; source=14.9
+BHARTIARTL,2014: ROCE differs from source by >5%; category=version difference; computed=21.667944446082625; source=13.1
+BHARTIARTL,2014: ROE differs from source by >5%; category=data source issue; computed=5.05221233014258; source=14.9
+BHARTIARTL,2015: ROCE differs from source by >5%; category=version difference; computed=28.285115916617965; source=13.1
+BHARTIARTL,2016: ROCE differs from source by >5%; category=version difference; computed=23.2008888039375; source=13.1
+BHARTIARTL,2017: ROCE differs from source by >5%; category=version difference; computed=21.19831754842771; source=13.1
+BHARTIARTL,2017: ROE differs from source by >5%; category=data source issue; computed=6.286967994426079; source=14.9
+BHARTIARTL,2018: ROE differs from source by >5%; category=data source issue; computed=3.1408643129359315; source=14.9
+BHARTIARTL,2019: ROE differs from source by >5%; category=data source issue; computed=2.3633843439788302; source=14.9
+BHARTIARTL,2020: ROCE differs from source by >5%; category=version difference; computed=-0.5169208378998371; source=13.1
+BHARTIARTL,2020: ROE differs from source by >5%; category=data source issue; computed=-39.748525503921186; source=14.9
+BHARTIARTL,2021: ROCE differs from source by >5%; category=version difference; computed=18.519153234898845; source=13.1
+BHARTIARTL,2021: ROE differs from source by >5%; category=data source issue; computed=-20.972639221074417; source=14.9
+BHARTIARTL,2022: ROCE differs from source by >5%; category=version difference; computed=26.32581530021335; source=13.1
+BHARTIARTL,2023: ROCE differs from source by >5%; category=version difference; computed=23.813257000556685; source=13.1
+BHARTIARTL,2024: ROCE differs from source by >5%; category=version difference; computed=23.94582889530737; source=13.1
+BHARTIARTL,2024: ROE differs from source by >5%; category=data source issue; computed=9.825713564031322; source=14.9
+BHEL,2013: ROCE differs from source by >5%; category=version difference; computed=31.927692724155566; source=3.28
+BHEL,2013: ROE differs from source by >5%; category=data source issue; computed=21.90906412648532; source=1.05
+BHEL,2014: ROCE differs from source by >5%; category=version difference; computed=16.363828438622438; source=3.28
+BHEL,2014: ROE differs from source by >5%; category=data source issue; computed=10.557414609146544; source=1.05
+BHEL,2015: ROCE differs from source by >5%; category=version difference; computed=9.314051418439716; source=3.28
+BHEL,2020: ROE differs from source by >5%; category=data source issue; computed=-5.12212142358688; source=1.05
+BHEL,2021: ROCE differs from source by >5%; category=version difference; computed=-8.586021852977305; source=3.28
+BHEL,2021: ROE differs from source by >5%; category=data source issue; computed=-10.391409767925182; source=1.05
+BOSCHLTD,2012: ROCE differs from source by >5%; category=version difference; computed=29.622608995347232; source=20.6
+BOSCHLTD,2015: ROCE differs from source by >5%; category=version difference; computed=33.76240278895146; source=20.6
+BOSCHLTD,2016: ROCE differs from source by >5%; category=version difference; computed=26.09285341679708; source=20.6
+BOSCHLTD,2017: ROCE differs from source by >5%; category=version difference; computed=32.67416751903626; source=20.6
+BOSCHLTD,2019: ROCE differs from source by >5%; category=version difference; computed=30.174208392681056; source=20.6
+BOSCHLTD,2020: ROCE differs from source by >5%; category=version difference; computed=14.747431506849315; source=20.6
+BOSCHLTD,2020: ROE differs from source by >5%; category=data source issue; computed=7.011866235167206; source=16.0
+BOSCHLTD,2021: ROCE differs from source by >5%; category=version difference; computed=9.33481826465526; source=20.6
+BOSCHLTD,2021: ROE differs from source by >5%; category=data source issue; computed=4.9068512674335745; source=16.0
+BOSCHLTD,2024: ROCE differs from source by >5%; category=version difference; computed=28.67100007831467; source=20.6
+BPCL,2013: ROCE differs from source by >5%; category=version difference; computed=16.424337098453897; source=32.1
+BPCL,2013: ROE differs from source by >5%; category=data source issue; computed=11.540983606557377; source=41.9
+BPCL,2014: ROCE differs from source by >5%; category=version difference; computed=20.455582598113782; source=32.1
+BPCL,2014: ROE differs from source by >5%; category=data source issue; computed=20.848765432098766; source=41.9
+BPCL,2015: ROCE differs from source by >5%; category=version difference; computed=24.75756440670912; source=32.1
+BPCL,2015: ROE differs from source by >5%; category=data source issue; computed=22.524598883077743; source=41.9
+BPCL,2016: ROE differs from source by >5%; category=data source issue; computed=29.103403612290425; source=41.9
+BPCL,2017: ROCE differs from source by >5%; category=version difference; computed=24.801635008415484; source=32.1
+BPCL,2017: ROE differs from source by >5%; category=data source issue; computed=30.847853596807163; source=41.9
+BPCL,2018: ROCE differs from source by >5%; category=version difference; computed=24.561781415762407; source=32.1
+BPCL,2018: ROE differs from source by >5%; category=data source issue; computed=26.740216827330077; source=41.9
+BPCL,2019: ROCE differs from source by >5%; category=version difference; computed=21.63413233816564; source=32.1
+BPCL,2019: ROE differs from source by >5%; category=data source issue; computed=21.999226106023475; source=41.9
+BPCL,2020: ROCE differs from source by >5%; category=version difference; computed=10.163908713042115; source=32.1
+BPCL,2020: ROE differs from source by >5%; category=data source issue; computed=10.035037775101282; source=41.9
+BPCL,2021: ROCE differs from source by >5%; category=version difference; computed=26.358396476912116; source=32.1
+BPCL,2021: ROE differs from source by >5%; category=data source issue; computed=32.340584445896745; source=41.9
+BPCL,2022: ROCE differs from source by >5%; category=version difference; computed=20.676920962907616; source=32.1
+BPCL,2022: ROE differs from source by >5%; category=data source issue; computed=22.50650226375108; source=41.9
+BPCL,2023: ROCE differs from source by >5%; category=version difference; computed=10.524988201598074; source=32.1
+BPCL,2023: ROE differs from source by >5%; category=data source issue; computed=3.9815403011845594; source=41.9
+BPCL,2024: ROE differs from source by >5%; category=data source issue; computed=34.832961560408776; source=41.9
+BRITANNIA,2013: ROE differs from source by >5%; category=data source issue; computed=46.59498207885305; source=57.1
+BRITANNIA,2014: ROCE differs from source by >5%; category=version difference; computed=69.72573839662446; source=48.9
+BRITANNIA,2014: ROE differs from source by >5%; category=data source issue; computed=49.49874686716792; source=57.1
+BRITANNIA,2015: ROCE differs from source by >5%; category=version difference; computed=78.99280575539568; source=48.9
+BRITANNIA,2016: ROCE differs from source by >5%; category=version difference; computed=60.23391812865497; source=48.9
+BRITANNIA,2016: ROE differs from source by >5%; category=data source issue; computed=39.4359464627151; source=57.1
+BRITANNIA,2017: ROE differs from source by >5%; category=data source issue; computed=32.826409495548965; source=57.1
+BRITANNIA,2018: ROE differs from source by >5%; category=data source issue; computed=29.47739283617146; source=57.1
+BRITANNIA,2019: ROE differs from source by >5%; category=data source issue; computed=27.157300728897248; source=57.1
+BRITANNIA,2020: ROCE differs from source by >5%; category=version difference; computed=35.44857768052516; source=48.9
+BRITANNIA,2020: ROE differs from source by >5%; category=data source issue; computed=31.66023166023166; source=57.1
+BRITANNIA,2023: ROE differs from source by >5%; category=data source issue; computed=65.53480475382003; source=57.1
+BRITANNIA,2024: ROCE differs from source by >5%; category=version difference; computed=56.63983903420523; source=48.9
+BRITANNIA,2024: ROE differs from source by >5%; category=data source issue; computed=66.47975077881621; source=57.1
+CANBK,2013: OPM mismatch; category=data source issue; computed=21.182858820076316; source=655.0
+CANBK,2013: ROE differs from source by >5%; category=data source issue; computed=11.896250397203687; source=17.9
+CANBK,2014: OPM mismatch; category=data source issue; computed=24.351781652767247; source=-672.0
+CANBK,2014: ROE differs from source by >5%; category=data source issue; computed=8.854718981972429; source=17.9
+CANBK,2015: OPM mismatch; category=data source issue; computed=23.513569032022456; source=-621.0
+CANBK,2015: ROE differs from source by >5%; category=data source issue; computed=9.020682014034225; source=17.9
+CANBK,2016: OPM mismatch; category=data source issue; computed=40.38465905220373; source=-8008.0
+CANBK,2016: ROE differs from source by >5%; category=data source issue; computed=-7.821659981487196; source=17.9
+CANBK,2017: OPM mismatch; category=data source issue; computed=37.84885544057698; source=-5775.0
+CANBK,2017: ROE differs from source by >5%; category=data source issue; computed=4.06804093988756; source=17.9
+CANBK,2018: OPM mismatch; category=data source issue; computed=61.874470915467406; source=-13350.0
+CANBK,2018: ROE differs from source by >5%; category=data source issue; computed=-10.496788356776973; source=17.9
+CANBK,2019: OPM mismatch; category=data source issue; computed=56.72874392609122; source=-11590.0
+CANBK,2019: ROE differs from source by >5%; category=data source issue; computed=1.8466926689484995; source=17.9
+CANBK,2020: OPM mismatch; category=data source issue; computed=53.87769046805603; source=-12867.0
+CANBK,2020: ROE differs from source by >5%; category=data source issue; computed=-4.661942435567636; source=17.9
+CANBK,2021: OPM mismatch; category=data source issue; computed=61.82938806883692; source=-18367.0
+CANBK,2021: ROE differs from source by >5%; category=data source issue; computed=4.73802275276398; source=17.9
+CANBK,2022: OPM mismatch; category=data source issue; computed=58.39493584841533; source=-13657.0
+CANBK,2022: ROE differs from source by >5%; category=data source issue; computed=8.802046854676176; source=17.9
+CANBK,2023: OPM mismatch; category=data source issue; computed=49.80147872154625; source=-9877.0
+CANBK,2024: OPM mismatch; category=data source issue; computed=41.753906568101414; source=-7745.0
+CANBK,TTM: OPM mismatch; category=data source issue; computed=40.22547574376843; source=-8985.0
+CHOLAFIN,2013: OPM mismatch; category=data source issue; computed=26.770428015564203; source=472.0
+CHOLAFIN,2013: ROCE differs from source by >5%; category=version difference; computed=4.099645781313513; source=10.4
+CHOLAFIN,2014: OPM mismatch; category=data source issue; computed=28.42329978652028; source=578.0
+CHOLAFIN,2014: ROCE differs from source by >5%; category=version difference; computed=4.6655534819762305; source=10.4
+CHOLAFIN,2015: OPM mismatch; category=data source issue; computed=28.559892328398384; source=696.0
+CHOLAFIN,2015: ROCE differs from source by >5%; category=version difference; computed=4.773480662983425; source=10.4
+CHOLAFIN,2016: OPM mismatch; category=data source issue; computed=30.042714760322735; source=899.0
+CHOLAFIN,2016: ROCE differs from source by >5%; category=version difference; computed=4.909215746109246; source=10.4
+CHOLAFIN,2017: OPM mismatch; category=data source issue; computed=28.163613123135917; source=1143.0
+CHOLAFIN,2017: ROCE differs from source by >5%; category=version difference; computed=4.744615601536889; source=10.4
+CHOLAFIN,2018: OPM mismatch; category=data source issue; computed=26.101816873538407; source=1451.0
+CHOLAFIN,2018: ROCE differs from source by >5%; category=version difference; computed=3.398918421355425; source=10.4
+CHOLAFIN,2019: OPM mismatch; category=data source issue; computed=22.960045019696118; source=1888.0
+CHOLAFIN,2019: ROCE differs from source by >5%; category=version difference; computed=2.9220607661822986; source=10.4
+CHOLAFIN,2020: OPM mismatch; category=data source issue; computed=27.789256198347108; source=1699.0
+CHOLAFIN,2020: ROCE differs from source by >5%; category=version difference; computed=3.8620362313108143; source=10.4
+CHOLAFIN,2020: ROE differs from source by >5%; category=data source issue; computed=12.853658536585366; source=20.2
+CHOLAFIN,2021: OPM mismatch; category=data source issue; computed=30.397579046227698; source=2094.0
+CHOLAFIN,2021: ROCE differs from source by >5%; category=version difference; computed=4.002454657029865; source=10.4
+CHOLAFIN,2022: OPM mismatch; category=data source issue; computed=28.83326763894363; source=2924.0
+CHOLAFIN,2022: ROCE differs from source by >5%; category=version difference; computed=3.6507171713427966; source=10.4
+CHOLAFIN,2023: OPM mismatch; category=data source issue; computed=28.104625892579943; source=3515.0
+CHOLAFIN,2023: ROCE differs from source by >5%; category=version difference; computed=3.265773830838645; source=10.4
+CHOLAFIN,2024: OPM mismatch; category=data source issue; computed=28.10102802275218; source=4548.0
+CHOLAFIN,2024: ROCE differs from source by >5%; category=version difference; computed=3.015823455289539; source=10.4
+CHOLAFIN,TTM: OPM mismatch; category=data source issue; computed=28.673006843836102; source=5175.0
+CIPLA,2013: OPM mismatch; category=data source issue; computed=73.25763981157145; source=2214.0
+CIPLA,2013: ROCE differs from source by >5%; category=version difference; computed=61.005407570598834; source=22.8
+CIPLA,2014: OPM mismatch; category=data source issue; computed=78.89511451882434; source=2147.0
+CIPLA,2014: ROCE differs from source by >5%; category=version difference; computed=71.21869191963891; source=22.8
+CIPLA,2015: OPM mismatch; category=data source issue; computed=80.94314676068753; source=2163.0
+CIPLA,2015: ROCE differs from source by >5%; category=version difference; computed=73.58656537385045; source=22.8
+CIPLA,2015: ROE differs from source by >5%; category=data source issue; computed=11.377522680985003; source=16.8
+CIPLA,2016: OPM mismatch; category=data source issue; computed=82.01595358955765; source=2480.0
+CIPLA,2016: ROCE differs from source by >5%; category=version difference; computed=67.7552485196483; source=22.8
+CIPLA,2017: OPM mismatch; category=data source issue; computed=82.65944143393081; source=2496.0
+CIPLA,2017: ROCE differs from source by >5%; category=version difference; computed=71.53148826319266; source=22.8
+CIPLA,2017: ROE differs from source by >5%; category=data source issue; computed=8.250956632653061; source=16.8
+CIPLA,2018: OPM mismatch; category=data source issue; computed=81.3473211929269; source=2826.0
+CIPLA,2018: ROCE differs from source by >5%; category=version difference; computed=67.37600261908659; source=22.8
+CIPLA,2018: ROE differs from source by >5%; category=data source issue; computed=9.958535385480358; source=16.8
+CIPLA,2019: OPM mismatch; category=data source issue; computed=81.07199608849774; source=3097.0
+CIPLA,2019: ROCE differs from source by >5%; category=version difference; computed=68.7293046357616; source=22.8
+CIPLA,2019: ROE differs from source by >5%; category=data source issue; computed=9.938715694111377; source=16.8
+CIPLA,2020: OPM mismatch; category=data source issue; computed=81.28648143824422; source=3206.0
+CIPLA,2020: ROCE differs from source by >5%; category=version difference; computed=75.05786102588945; source=22.8
+CIPLA,2020: ROE differs from source by >5%; category=data source issue; computed=9.515955084692001; source=16.8
+CIPLA,2021: OPM mismatch; category=data source issue; computed=77.80271398747391; source=4252.0
+CIPLA,2021: ROCE differs from source by >5%; category=version difference; computed=73.39724680432646; source=22.8
+CIPLA,2022: OPM mismatch; category=data source issue; computed=79.08376602490466; source=4553.0
+CIPLA,2022: ROCE differs from source by >5%; category=version difference; computed=78.69571174133443; source=22.8
+CIPLA,2023: OPM mismatch; category=data source issue; computed=77.90621017008746; source=5027.0
+CIPLA,2023: ROCE differs from source by >5%; category=version difference; computed=73.30855018587361; source=22.8
+CIPLA,2024: OPM mismatch; category=data source issue; computed=75.59168153953597; source=6291.0
+CIPLA,2024: ROCE differs from source by >5%; category=version difference; computed=67.67624202053844; source=22.8
+CIPLA,TTM: OPM mismatch; category=data source issue; computed=74.40421037026054; source=6906.0
+COALINDIA,2013: OPM mismatch; category=data source issue; computed=73.51946473800565; source=18087.0
+COALINDIA,2013: ROCE differs from source by >5%; category=version difference; computed=100.934166382064; source=63.6
+COALINDIA,2013: ROE differs from source by >5%; category=data source issue; computed=35.80623865324311; source=52.0
+COALINDIA,2014: OPM mismatch; category=data source issue; computed=74.83854520734195; source=17766.0
+COALINDIA,2014: ROCE differs from source by >5%; category=version difference; computed=124.15339814945281; source=63.6
+COALINDIA,2014: ROE differs from source by >5%; category=data source issue; computed=35.63814734459013; source=52.0
+COALINDIA,2015: OPM mismatch; category=data source issue; computed=76.60145709660011; source=17343.0
+COALINDIA,2015: ROCE differs from source by >5%; category=version difference; computed=139.3488874168936; source=63.6
+COALINDIA,2015: ROE differs from source by >5%; category=data source issue; computed=34.01729735087849; source=52.0
+COALINDIA,2016: OPM mismatch; category=data source issue; computed=75.96486045645446; source=18714.0
+COALINDIA,2016: ROCE differs from source by >5%; category=version difference; computed=164.21791740674956; source=63.6
+COALINDIA,2016: ROE differs from source by >5%; category=data source issue; computed=40.95828668216921; source=52.0
+COALINDIA,2017: OPM mismatch; category=data source issue; computed=84.0745100046057; source=12448.0
+COALINDIA,2017: ROCE differs from source by >5%; category=version difference; computed=238.74763911085282; source=63.6
+COALINDIA,2017: ROE differs from source by >5%; category=data source issue; computed=37.84974304592544; source=52.0
+COALINDIA,2018: OPM mismatch; category=data source issue; computed=89.10421847871991; source=9288.0
+COALINDIA,2018: ROCE differs from source by >5%; category=version difference; computed=349.82040891508564; source=63.6
+COALINDIA,2018: ROE differs from source by >5%; category=data source issue; computed=34.87957181088314; source=52.0
+COALINDIA,2019: OPM mismatch; category=data source issue; computed=74.88904062820076; source=25007.0
+COALINDIA,2019: ROCE differs from source by >5%; category=version difference; computed=260.26164311878597; source=63.6
+COALINDIA,2019: ROE differs from source by >5%; category=data source issue; computed=66.01398601398601; source=52.0
+COALINDIA,2020: OPM mismatch; category=data source issue; computed=77.53955037468776; source=21581.0
+COALINDIA,2020: ROCE differs from source by >5%; category=version difference; computed=193.10720116089243; source=63.6
+COALINDIA,2021: OPM mismatch; category=data source issue; computed=79.3081998533757; source=18628.0
+COALINDIA,2021: ROCE differs from source by >5%; category=version difference; computed=168.4330927786425; source=63.6
+COALINDIA,2021: ROE differs from source by >5%; category=data source issue; computed=34.78284681526918; source=52.0
+COALINDIA,2022: OPM mismatch; category=data source issue; computed=77.46889668687052; source=24721.0
+COALINDIA,2022: ROCE differs from source by >5%; category=version difference; computed=182.2191739717513; source=63.6
+COALINDIA,2022: ROE differs from source by >5%; category=data source issue; computed=40.27999907285075; source=52.0
+COALINDIA,2023: OPM mismatch; category=data source issue; computed=68.00624945751237; source=44232.0
+COALINDIA,2023: ROCE differs from source by >5%; category=version difference; computed=144.30908030809832; source=63.6
+COALINDIA,2024: OPM mismatch; category=data source issue; computed=66.29380849329698; source=47971.0
+COALINDIA,2024: ROCE differs from source by >5%; category=version difference; computed=90.74442617749703; source=63.6
+COALINDIA,2024: ROE differs from source by >5%; category=data source issue; computed=38.84632576899488; source=52.0
+COALINDIA,TTM: OPM mismatch; category=data source issue; computed=66.78424833247819; source=46610.0
+DABUR,2013: ROCE differs from source by >5%; category=version difference; computed=33.64140480591497; source=22.3
+DABUR,2013: ROE differs from source by >5%; category=data source issue; computed=36.563245823389025; source=19.2
+DABUR,2014: ROCE differs from source by >5%; category=version difference; computed=38.28775267538644; source=22.3
+DABUR,2014: ROE differs from source by >5%; category=data source issue; computed=34.48795180722892; source=19.2
+DABUR,2015: ROCE differs from source by >5%; category=version difference; computed=36.05675146771038; source=22.3
+DABUR,2015: ROE differs from source by >5%; category=data source issue; computed=31.84257602862254; source=19.2
+DABUR,2016: ROCE differs from source by >5%; category=version difference; computed=34.86736334405145; source=22.3
+DABUR,2016: ROE differs from source by >5%; category=data source issue; computed=30.064732678014867; source=19.2
+DABUR,2017: ROCE differs from source by >5%; category=version difference; computed=31.054620405358985; source=22.3
+DABUR,2017: ROE differs from source by >5%; category=data source issue; computed=26.408087476789767; source=19.2
+DABUR,2018: ROCE differs from source by >5%; category=version difference; computed=28.717639975918118; source=22.3
+DABUR,2019: ROCE differs from source by >5%; category=version difference; computed=30.990364871268362; source=22.3
+DABUR,2019: ROE differs from source by >5%; category=data source issue; computed=25.67471590909091; source=19.2
+DABUR,2020: ROCE differs from source by >5%; category=version difference; computed=28.01627384960718; source=22.3
+DABUR,2021: ROCE differs from source by >5%; category=version difference; computed=28.471797381622416; source=22.3
+DIVISLAB,2013: ROCE differs from source by >5%; category=version difference; computed=33.97790055248619; source=16.5
+DIVISLAB,2013: ROE differs from source by >5%; category=data source issue; computed=24.070371851259495; source=12.2
+DIVISLAB,2014: ROCE differs from source by >5%; category=version difference; computed=36.41851106639839; source=16.5
+DIVISLAB,2014: ROE differs from source by >5%; category=data source issue; computed=26.07962213225371; source=12.2
+DIVISLAB,2015: ROCE differs from source by >5%; category=version difference; computed=34.37411297189895; source=16.5
+DIVISLAB,2015: ROE differs from source by >5%; category=data source issue; computed=24.37070938215103; source=12.2
+DIVISLAB,2016: ROCE differs from source by >5%; category=version difference; computed=34.97116493656286; source=16.5
+DIVISLAB,2016: ROE differs from source by >5%; category=data source issue; computed=26.22874446773818; source=12.2
+DIVISLAB,2017: ROCE differs from source by >5%; category=version difference; computed=28.221768959762656; source=16.5
+DIVISLAB,2017: ROE differs from source by >5%; category=data source issue; computed=19.787194325182007; source=12.2
+DIVISLAB,2018: ROCE differs from source by >5%; category=version difference; computed=22.979291917167668; source=16.5
+DIVISLAB,2019: ROCE differs from source by >5%; category=version difference; computed=28.71301146821464; source=16.5
+DIVISLAB,2019: ROE differs from source by >5%; category=data source issue; computed=19.448037947391118; source=12.2
+DIVISLAB,2020: ROCE differs from source by >5%; category=version difference; computed=27.377874540753844; source=16.5
+DIVISLAB,2020: ROE differs from source by >5%; category=data source issue; computed=18.83720930232558; source=12.2
+DIVISLAB,2021: ROCE differs from source by >5%; category=version difference; computed=31.44086021505376; source=16.5
+DIVISLAB,2021: ROE differs from source by >5%; category=data source issue; computed=21.34480903711673; source=12.2
+DIVISLAB,2022: ROCE differs from source by >5%; category=version difference; computed=34.069212410501194; source=16.5
+DIVISLAB,2022: ROE differs from source by >5%; category=data source issue; computed=25.2387448840382; source=12.2
+DLF,2015: ROE differs from source by >5%; category=data source issue; computed=1.8524608133289489; source=6.95
+DLF,2016: ROE differs from source by >5%; category=data source issue; computed=1.2671901616186798; source=6.95
+DLF,2018: ROCE differs from source by >5%; category=version difference; computed=22.915798643990758; source=5.74
+DLF,2018: ROE differs from source by >5%; category=data source issue; computed=12.678768655659708; source=6.95
+DLF,2020: ROE differs from source by >5%; category=data source issue; computed=-1.7127761488663744; source=6.95
+DMART,2016: ROCE differs from source by >5%; category=version difference; computed=25.101363803907113; source=19.4
+DMART,2016: ROE differs from source by >5%; category=data source issue; computed=21.038790269559502; source=14.5
+DMART,2018: ROCE differs from source by >5%; category=version difference; computed=28.21064996084573; source=19.4
+DMART,2019: ROCE differs from source by >5%; category=version difference; computed=26.73771274057579; source=19.4
+DMART,2021: ROE differs from source by >5%; category=data source issue; computed=9.020026263952726; source=14.5
+DRREDDY,2017: ROCE differs from source by >5%; category=version difference; computed=15.389988358556462; source=26.5
+DRREDDY,2017: ROE differs from source by >5%; category=data source issue; computed=10.536617191322787; source=21.4
+DRREDDY,2018: ROCE differs from source by >5%; category=version difference; computed=14.203933571388086; source=26.5
+DRREDDY,2018: ROE differs from source by >5%; category=data source issue; computed=7.532612153993; source=21.4
+DRREDDY,2019: ROCE differs from source by >5%; category=version difference; computed=19.92498040532975; source=26.5
+DRREDDY,2019: ROE differs from source by >5%; category=data source issue; computed=13.904734740444951; source=21.4
+DRREDDY,2020: ROCE differs from source by >5%; category=version difference; computed=17.67084058622045; source=26.5
+DRREDDY,2020: ROE differs from source by >5%; category=data source issue; computed=12.988012052054618; source=21.4
+DRREDDY,2021: ROCE differs from source by >5%; category=version difference; computed=20.360874613003098; source=26.5
+DRREDDY,2021: ROE differs from source by >5%; category=data source issue; computed=11.06513236211099; source=21.4
+DRREDDY,2022: ROCE differs from source by >5%; category=version difference; computed=19.131704726500264; source=26.5
+DRREDDY,2022: ROE differs from source by >5%; category=data source issue; computed=11.35748490526754; source=21.4
+EICHERMOT,2012: ROCE differs from source by >5%; category=version difference; computed=38.582677165354326; source=31.1
+EICHERMOT,2013: ROCE differs from source by >5%; category=version difference; computed=37.77466105656849; source=31.1
+EICHERMOT,2014: ROCE differs from source by >5%; category=version difference; computed=47.51359751359751; source=31.1
+EICHERMOT,2016: ROCE differs from source by >5%; category=version difference; computed=54.84221980413493; source=31.1
+EICHERMOT,2016: ROE differs from source by >5%; category=data source issue; computed=36.627429509991785; source=24.2
+EICHERMOT,2017: ROCE differs from source by >5%; category=version difference; computed=47.461975444383356; source=31.1
+EICHERMOT,2017: ROE differs from source by >5%; category=data source issue; computed=31.18802619270346; source=24.2
+EICHERMOT,2018: ROCE differs from source by >5%; category=version difference; computed=46.58125609246623; source=31.1
+EICHERMOT,2019: ROCE differs from source by >5%; category=version difference; computed=39.593629873695775; source=31.1
+EICHERMOT,2020: ROE differs from source by >5%; category=data source issue; computed=18.30477908025248; source=24.2
+EICHERMOT,2021: ROCE differs from source by >5%; category=version difference; computed=19.430385176288926; source=31.1
+EICHERMOT,2021: ROE differs from source by >5%; category=data source issue; computed=11.776534359153699; source=24.2
+EICHERMOT,2022: ROCE differs from source by >5%; category=version difference; computed=21.02862535388487; source=31.1
+EICHERMOT,2022: ROE differs from source by >5%; category=data source issue; computed=13.301078680203046; source=24.2
+GAIL,2016: ROE differs from source by >5%; category=data source issue; computed=5.147927368623465; source=14.0
+GAIL,2017: ROE differs from source by >5%; category=data source issue; computed=8.584149599287622; source=14.0
+GAIL,2019: ROCE differs from source by >5%; category=version difference; computed=24.170606286804347; source=14.7
+GAIL,2020: ROCE differs from source by >5%; category=version difference; computed=22.815948736205055; source=14.7
+GAIL,2020: ROE differs from source by >5%; category=data source issue; computed=19.31273849151579; source=14.0
+GAIL,2022: ROCE differs from source by >5%; category=version difference; computed=24.66384835674349; source=14.7
+GAIL,2022: ROE differs from source by >5%; category=data source issue; computed=19.19081635836167; source=14.0
+GAIL,2023: ROE differs from source by >5%; category=data source issue; computed=8.61891046868021; source=14.0
+GODREJCP,2013: ROCE differs from source by >5%; category=version difference; computed=20.610157739642922; source=26.49
+GODREJCP,2013: ROE differs from source by >5%; category=data source issue; computed=25.505584062782976; source=6.77
+GODREJCP,2014: ROCE differs from source by >5%; category=version difference; computed=20.0227716330514; source=26.49
+GODREJCP,2014: ROE differs from source by >5%; category=data source issue; computed=21.695364238410598; source=6.77
+GODREJCP,2015: ROCE differs from source by >5%; category=version difference; computed=20.66021627774616; source=26.49
+GODREJCP,2015: ROE differs from source by >5%; category=data source issue; computed=22.639758756668986; source=6.77
+GODREJCP,2016: ROCE differs from source by >5%; category=version difference; computed=19.488683989941325; source=26.49
+GODREJCP,2016: ROE differs from source by >5%; category=data source issue; computed=19.475041012420906; source=6.77
+GODREJCP,2017: ROCE differs from source by >5%; category=version difference; computed=21.315704611415672; source=26.49
+GODREJCP,2017: ROE differs from source by >5%; category=data source issue; computed=24.669935873255376; source=6.77
+GODREJCP,2018: ROE differs from source by >5%; category=data source issue; computed=26.110578459571748; source=6.77
+GODREJCP,2019: ROE differs from source by >5%; category=data source issue; computed=32.22787945507087; source=6.77
+GODREJCP,2020: ROCE differs from source by >5%; category=version difference; computed=19.053429791684824; source=26.49
+GODREJCP,2020: ROE differs from source by >5%; category=data source issue; computed=18.95416561154723; source=6.77
+GODREJCP,2021: ROCE differs from source by >5%; category=version difference; computed=21.427939485092455; source=26.49
+GODREJCP,2021: ROE differs from source by >5%; category=data source issue; computed=18.23286365081047; source=6.77
+GODREJCP,2022: ROCE differs from source by >5%; category=version difference; computed=18.755656108597286; source=26.49
+GODREJCP,2022: ROE differs from source by >5%; category=data source issue; computed=15.429214260989962; source=6.77
+GODREJCP,2023: ROCE differs from source by >5%; category=version difference; computed=17.133476279817746; source=26.49
+GODREJCP,2023: ROE differs from source by >5%; category=data source issue; computed=12.338697984630999; source=6.77
+GODREJCP,2024: ROCE differs from source by >5%; category=version difference; computed=4.675584448056007; source=26.49
+GODREJCP,2024: ROE differs from source by >5%; category=data source issue; computed=-4.609695973705834; source=6.77
+GRASIM,2013: ROCE differs from source by >5%; category=version difference; computed=23.104050398876982; source=9.3
+GRASIM,2013: ROE differs from source by >5%; category=data source issue; computed=19.219616421630974; source=6.9
+GRASIM,2014: ROCE differs from source by >5%; category=version difference; computed=17.545373210633947; source=9.3
+GRASIM,2014: ROE differs from source by >5%; category=data source issue; computed=13.66643534582466; source=6.9
+GRASIM,2015: ROCE differs from source by >5%; category=version difference; computed=16.179070430567435; source=9.3
+GRASIM,2016: ROCE differs from source by >5%; category=version difference; computed=18.107377172334353; source=9.3
+GRASIM,2016: ROE differs from source by >5%; category=data source issue; computed=12.596157351708046; source=6.9
+GRASIM,2017: ROCE differs from source by >5%; category=version difference; computed=20.844827586206897; source=9.3
+GRASIM,2017: ROE differs from source by >5%; category=data source issue; computed=13.527893713958008; source=6.9
+GRASIM,2022: ROCE differs from source by >5%; category=version difference; computed=14.675990242151512; source=9.3
+GRASIM,2022: ROE differs from source by >5%; category=data source issue; computed=14.803365962562253; source=6.9
+GRASIM,2023: ROE differs from source by >5%; category=data source issue; computed=14.068730791699474; source=6.9
+HAL,2016: ROCE differs from source by >5%; category=version difference; computed=2953.6231884057975; source=38.9
+HAL,2016: ROE differs from source by >5%; category=data source issue; computed=1664.9999999999998; source=28.9
+HAL,2017: ROCE differs from source by >5%; category=version difference; computed=3170.3703703703704; source=38.9
+HAL,2017: ROE differs from source by >5%; category=data source issue; computed=1966.9172932330828; source=28.9
+HAL,2018: ROCE differs from source by >5%; category=version difference; computed=3173.684210526316; source=38.9
+HAL,2018: ROE differs from source by >5%; category=data source issue; computed=1528.4615384615386; source=28.9
+HAL,2019: ROCE differs from source by >5%; category=version difference; computed=3507.0921985815603; source=38.9
+HAL,2019: ROE differs from source by >5%; category=data source issue; computed=1763.9097744360904; source=28.9
+HAL,2020: ROCE differs from source by >5%; category=version difference; computed=3782.142857142857; source=38.9
+HAL,2020: ROE differs from source by >5%; category=data source issue; computed=2059.4202898550725; source=28.9
+HAL,2021: ROCE differs from source by >5%; category=version difference; computed=3800.666666666667; source=38.9
+HAL,2021: ROE differs from source by >5%; category=data source issue; computed=2249.3055555555557; source=28.9
+HAL,2022: ROCE differs from source by >5%; category=version difference; computed=3882.424242424243; source=38.9
+HAL,2022: ROE differs from source by >5%; category=data source issue; computed=3324.183006535948; source=28.9
+HAL,2023: ROCE differs from source by >5%; category=version difference; computed=3723.6607142857147; source=38.9
+HAL,2023: ROE differs from source by >5%; category=data source issue; computed=3283.050847457627; source=28.9
+HAL,2024: ROCE differs from source by >5%; category=version difference; computed=3519.0332326283988; source=38.9
+HAL,2024: ROE differs from source by >5%; category=data source issue; computed=3669.0821256038644; source=28.9
+HAVELLS,2013: ROCE differs from source by >5%; category=version difference; computed=36.96369636963696; source=24.4
+HAVELLS,2013: ROE differs from source by >5%; category=data source issue; computed=40.29126213592233; source=18.0
+HAVELLS,2014: ROCE differs from source by >5%; category=version difference; computed=29.852941176470587; source=24.4
+HAVELLS,2014: ROE differs from source by >5%; category=data source issue; computed=26.770708283313326; source=18.0
+HAVELLS,2015: ROCE differs from source by >5%; category=version difference; computed=35.81623550401427; source=24.4
+HAVELLS,2016: ROCE differs from source by >5%; category=version difference; computed=55.20404935147105; source=24.4
+HAVELLS,2016: ROE differs from source by >5%; category=data source issue; computed=42.94681202510737; source=18.0
+HAVELLS,2019: ROCE differs from source by >5%; category=version difference; computed=30.59179869524697; source=24.4
+HAVELLS,2021: ROCE differs from source by >5%; category=version difference; computed=31.16883116883117; source=24.4
+HCLTECH,2013: ROCE differs from source by >5%; category=version difference; computed=42.314189189189186; source=29.6
+HCLTECH,2013: ROE differs from source by >5%; category=data source issue; computed=30.689759951382555; source=23.3
+HCLTECH,2014: ROCE differs from source by >5%; category=version difference; computed=42.35705950991832; source=29.6
+HCLTECH,2014: ROE differs from source by >5%; category=data source issue; computed=33.39130434782609; source=23.3
+HCLTECH,2015: ROCE differs from source by >5%; category=version difference; computed=38.645866838211646; source=29.6
+HCLTECH,2015: ROE differs from source by >5%; category=data source issue; computed=30.30878467635403; source=23.3
+HDFCBANK,2013: OPM mismatch; category=data source issue; computed=35.22210758205293; source=3534.0
+HDFCBANK,2014: OPM mismatch; category=data source issue; computed=31.742450945834804; source=5602.0
+HDFCBANK,2015: OPM mismatch; category=data source issue; computed=31.903051355938892; source=7214.0
+HDFCBANK,2016: OPM mismatch; category=data source issue; computed=31.751686140400874; source=9037.0
+HDFCBANK,2017: OPM mismatch; category=data source issue; computed=32.558583887213224; source=11374.0
+HDFCBANK,2018: OPM mismatch; category=data source issue; computed=34.62620767282619; source=13374.0
+HDFCBANK,2019: OPM mismatch; category=data source issue; computed=33.145367579235646; source=16592.0
+HDFCBANK,2020: OPM mismatch; category=data source issue; computed=37.203839952859916; source=14593.0
+HDFCBANK,2021: OPM mismatch; category=data source issue; computed=40.80605513722074; source=16848.0
+HDFCBANK,2022: OPM mismatch; category=data source issue; computed=41.60560852165725; source=20795.0
+HDFCBANK,2023: OPM mismatch; category=data source issue; computed=36.91977933167012; source=29932.0
+HDFCBANK,2023: ROCE differs from source by >5%; category=version difference; computed=2.596504230745476; source=7.67
+HDFCBANK,2024: OPM mismatch; category=data source issue; computed=61.41252040373843; source=-44685.0
+HDFCBANK,TTM: OPM mismatch; category=data source issue; computed=62.61253046908717; source=-57587.0
+HDFCLIFE,2013: OPM mismatch; category=data source issue; computed=96.26600284495022; source=525.0
+HDFCLIFE,2013: ROCE differs from source by >5%; category=version difference; computed=1012.64023934181; source=6.61
+HDFCLIFE,2013: ROE differs from source by >5%; category=data source issue; computed=33.43305908750935; source=11.4
+HDFCLIFE,2014: OPM mismatch; category=data source issue; computed=96.47559128509845; source=605.0
+HDFCLIFE,2014: ROCE differs from source by >5%; category=version difference; computed=859.1804979253112; source=6.61
+HDFCLIFE,2014: ROE differs from source by >5%; category=data source issue; computed=37.60373443983403; source=11.4
+HDFCLIFE,2015: OPM mismatch; category=data source issue; computed=96.78853573397024; source=874.0
+HDFCLIFE,2015: ROCE differs from source by >5%; category=version difference; computed=1036.7571822117277; source=6.61
+HDFCLIFE,2015: ROE differs from source by >5%; category=data source issue; computed=30.932703659976386; source=11.4
+HDFCLIFE,2016: OPM mismatch; category=data source issue; computed=94.74119398048619; source=953.0
+HDFCLIFE,2016: ROCE differs from source by >5%; category=version difference; computed=554.0444730905575; source=6.61
+HDFCLIFE,2016: ROE differs from source by >5%; category=data source issue; computed=26.32935868514341; source=11.4
+HDFCLIFE,2017: OPM mismatch; category=data source issue; computed=96.82513786014944; source=972.0
+HDFCLIFE,2017: ROCE differs from source by >5%; category=version difference; computed=775.6664924202822; source=6.61
+HDFCLIFE,2017: ROE differs from source by >5%; category=data source issue; computed=23.183481442760062; source=11.4
+HDFCLIFE,2018: OPM mismatch; category=data source issue; computed=96.67079975201489; source=1074.0
+HDFCLIFE,2018: ROCE differs from source by >5%; category=version difference; computed=662.8905419766206; source=6.61
+HDFCLIFE,2018: ROE differs from source by >5%; category=data source issue; computed=23.52816153028693; source=11.4
+HDFCLIFE,2019: OPM mismatch; category=data source issue; computed=96.87298931926392; source=1215.0
+HDFCLIFE,2019: ROCE differs from source by >5%; category=version difference; computed=667.1924849344205; source=6.61
+HDFCLIFE,2019: ROE differs from source by >5%; category=data source issue; computed=22.651542006380716; source=11.4
+HDFCLIFE,2020: OPM mismatch; category=data source issue; computed=96.11640571817563; source=1141.0
+HDFCLIFE,2020: ROCE differs from source by >5%; category=version difference; computed=414.9111209049508; source=6.61
+HDFCLIFE,2020: ROE differs from source by >5%; category=data source issue; computed=19.05391508741002; source=11.4
+HDFCLIFE,2021: OPM mismatch; category=data source issue; computed=98.27480147634493; source=1235.0
+HDFCLIFE,2021: ROCE differs from source by >5%; category=version difference; computed=760.7792207792209; source=6.61
+HDFCLIFE,2022: OPM mismatch; category=data source issue; computed=98.84098560915294; source=778.0
+HDFCLIFE,2022: ROCE differs from source by >5%; category=version difference; computed=409.2080917725422; source=6.61
+HDFCLIFE,2023: OPM mismatch; category=data source issue; computed=99.88605124845101; source=80.0
+HDFCLIFE,2023: ROCE differs from source by >5%; category=version difference; computed=502.9548877572975; source=6.61
+HDFCLIFE,2024: OPM mismatch; category=data source issue; computed=99.47675449833469; source=531.0
+HDFCLIFE,2024: ROCE differs from source by >5%; category=version difference; computed=609.8344810921832; source=6.61
+HDFCLIFE,TTM: OPM mismatch; category=data source issue; computed=99.28154646131861; source=725.0
+HEROMOTOCO,2014: OPM mismatch; category=data source issue; computed=85.94263105835806; source=3553.0
+HEROMOTOCO,2014: ROCE differs from source by >5%; category=version difference; computed=367.9702048417132; source=29.1
+HEROMOTOCO,2014: ROE differs from source by >5%; category=data source issue; computed=37.38218033078428; source=22.0
+HEROMOTOCO,2015: OPM mismatch; category=data source issue; computed=87.21766286585809; source=3520.0
+HEROMOTOCO,2015: ROCE differs from source by >5%; category=version difference; computed=361.91265060240966; source=29.1
+HEROMOTOCO,2015: ROE differs from source by >5%; category=data source issue; computed=36.14678899082569; source=22.0
+HEROMOTOCO,2016: OPM mismatch; category=data source issue; computed=84.45373721755631; source=4424.0
+HEROMOTOCO,2016: ROCE differs from source by >5%; category=version difference; computed=265.2658283697331; source=29.1
+HEROMOTOCO,2016: ROE differs from source by >5%; category=data source issue; computed=35.22752999773602; source=22.0
+HEROMOTOCO,2017: OPM mismatch; category=data source issue; computed=83.9741349178609; source=4585.0
+HEROMOTOCO,2017: ROCE differs from source by >5%; category=version difference; computed=227.29507421764205; source=29.1
+HEROMOTOCO,2017: ROE differs from source by >5%; category=data source issue; computed=34.373788290034895; source=22.0
+HEROMOTOCO,2018: OPM mismatch; category=data source issue; computed=83.56645511122065; source=5334.0
+HEROMOTOCO,2018: ROCE differs from source by >5%; category=version difference; computed=222.4590163934426; source=29.1
+HEROMOTOCO,2018: ROE differs from source by >5%; category=data source issue; computed=31.089208152355496; source=22.0
+HEROMOTOCO,2019: OPM mismatch; category=data source issue; computed=85.2079715051073; source=5025.0
+HEROMOTOCO,2019: ROCE differs from source by >5%; category=version difference; computed=215.6119714115545; source=29.1
+HEROMOTOCO,2020: OPM mismatch; category=data source issue; computed=86.0873726669857; source=4070.0
+HEROMOTOCO,2020: ROCE differs from source by >5%; category=version difference; computed=169.5807254862373; source=29.1
+HEROMOTOCO,2021: OPM mismatch; category=data source issue; computed=86.89557156238897; source=4058.0
+HEROMOTOCO,2021: ROCE differs from source by >5%; category=version difference; computed=168.21875; source=29.1
+HEROMOTOCO,2022: OPM mismatch; category=data source issue; computed=88.98176034651958; source=3256.0
+HEROMOTOCO,2022: ROCE differs from source by >5%; category=version difference; computed=159.89545344031123; source=29.1
+HEROMOTOCO,2022: ROE differs from source by >5%; category=data source issue; computed=14.696788035590332; source=22.0
+HEROMOTOCO,2023: OPM mismatch; category=data source issue; computed=88.00281046899701; source=4099.0
+HEROMOTOCO,2023: ROCE differs from source by >5%; category=version difference; computed=174.59359033906176; source=29.1
+HEROMOTOCO,2023: ROE differs from source by >5%; category=data source issue; computed=16.810758885686838; source=22.0
+HEROMOTOCO,2024: OPM mismatch; category=data source issue; computed=86.14676228532112; source=5235.0
+HEROMOTOCO,2024: ROCE differs from source by >5%; category=version difference; computed=166.1717434562988; source=29.1
+HEROMOTOCO,TTM: OPM mismatch; category=data source issue; computed=86.13147787919597; source=5561.0
+HINDALCO,2013: OPM mismatch; category=data source issue; computed=90.39941141994937; source=7699.0
+HINDALCO,2013: ROCE differs from source by >5%; category=version difference; computed=78.568719454709; source=11.3
+HINDALCO,2014: OPM mismatch; category=data source issue; computed=90.85010547921775; source=8024.0
+HINDALCO,2014: ROCE differs from source by >5%; category=version difference; computed=75.62642369020502; source=11.3
+HINDALCO,2015: OPM mismatch; category=data source issue; computed=91.51906867022755; source=8844.0
+HINDALCO,2015: ROCE differs from source by >5%; category=version difference; computed=89.37048793505436; source=11.3
+HINDALCO,2015: ROE differs from source by >5%; category=data source issue; computed=0.6757285606198962; source=10.2
+HINDALCO,2016: OPM mismatch; category=data source issue; computed=92.12426209256877; source=7778.0
+HINDALCO,2016: ROCE differs from source by >5%; category=version difference; computed=84.12366749567774; source=11.3
+HINDALCO,2016: ROE differs from source by >5%; category=data source issue; computed=-1.7286808342978157; source=10.2
+HINDALCO,2017: OPM mismatch; category=data source issue; computed=87.70562165615267; source=12317.0
+HINDALCO,2017: ROCE differs from source by >5%; category=version difference; computed=79.9801594524737; source=11.3
+HINDALCO,2017: ROE differs from source by >5%; category=data source issue; computed=4.086063527215094; source=10.2
+HINDALCO,2018: OPM mismatch; category=data source issue; computed=88.1102245991162; source=13695.0
+HINDALCO,2018: ROCE differs from source by >5%; category=version difference; computed=94.92546246937134; source=11.3
+HINDALCO,2019: OPM mismatch; category=data source issue; computed=88.11800033705627; source=15511.0
+HINDALCO,2019: ROCE differs from source by >5%; category=version difference; computed=104.66447105062046; source=11.3
+HINDALCO,2020: OPM mismatch; category=data source issue; computed=87.89104821235102; source=14306.0
+HINDALCO,2020: ROCE differs from source by >5%; category=version difference; computed=81.95492281953345; source=11.3
+HINDALCO,2021: OPM mismatch; category=data source issue; computed=86.69853342221684; source=17559.0
+HINDALCO,2021: ROCE differs from source by >5%; category=version difference; computed=85.58610427773499; source=11.3
+HINDALCO,2022: OPM mismatch; category=data source issue; computed=85.46747394378112; source=28347.0
+HINDALCO,2022: ROCE differs from source by >5%; category=version difference; computed=116.85625573848624; source=11.3
+HINDALCO,2022: ROE differs from source by >5%; category=data source issue; computed=17.559565678914453; source=10.2
+HINDALCO,2023: OPM mismatch; category=data source issue; computed=89.84507307282192; source=22666.0
+HINDALCO,2023: ROCE differs from source by >5%; category=version difference; computed=129.30359710374796; source=11.3
+HINDALCO,2024: OPM mismatch; category=data source issue; computed=88.94620349876368; source=23872.0
+HINDALCO,2024: ROCE differs from source by >5%; category=version difference; computed=109.06463791977745; source=11.3
+HINDALCO,TTM: OPM mismatch; category=data source issue; computed=87.53180547991678; source=27931.0
+HINDUNILVR,2013: OPM mismatch; category=data source issue; computed=84.37268552806991; source=4220.0
+HINDUNILVR,2013: ROCE differs from source by >5%; category=version difference; computed=788.9273356401384; source=27.2
+HINDUNILVR,2013: ROE differs from source by >5%; category=data source issue; computed=133.99650959860384; source=20.2
+HINDUNILVR,2014: OPM mismatch; category=data source issue; computed=83.72100978312923; source=4759.0
+HINDUNILVR,2014: ROCE differs from source by >5%; category=version difference; computed=683.5333519397153; source=27.2
+HINDUNILVR,2014: ROE differs from source by >5%; category=data source issue; computed=111.84619734238055; source=20.2
+HINDUNILVR,2015: OPM mismatch; category=data source issue; computed=83.07268860252721; source=5412.0
+HINDUNILVR,2015: ROCE differs from source by >5%; category=version difference; computed=652.997542997543; source=27.2
+HINDUNILVR,2015: ROE differs from source by >5%; category=data source issue; computed=108.66650111745717; source=20.2
+HINDUNILVR,2016: OPM mismatch; category=data source issue; computed=81.63797924563475; source=5910.0
+HINDUNILVR,2016: ROCE differs from source by >5%; category=version difference; computed=389.5407407407407; source=27.2
+HINDUNILVR,2016: ROE differs from source by >5%; category=data source issue; computed=63.15228966986155; source=20.2
+HINDUNILVR,2017: OPM mismatch; category=data source issue; computed=80.91791809902901; source=6328.0
+HINDUNILVR,2017: ROCE differs from source by >5%; category=version difference; computed=382.4668850591084; source=27.2
+HINDUNILVR,2017: ROE differs from source by >5%; category=data source issue; computed=66.57769869513642; source=20.2
+HINDUNILVR,2018: OPM mismatch; category=data source issue; computed=78.90279926853285; source=7499.0
+HINDUNILVR,2018: ROCE differs from source by >5%; category=version difference; computed=385.4827633566818; source=27.2
+HINDUNILVR,2018: ROE differs from source by >5%; category=data source issue; computed=71.78958934212334; source=20.2
+HINDUNILVR,2019: OPM mismatch; category=data source issue; computed=77.41032816077335; source=8880.0
+HINDUNILVR,2019: ROCE differs from source by >5%; category=version difference; computed=382.28722068792365; source=27.2
+HINDUNILVR,2019: ROE differs from source by >5%; category=data source issue; computed=77.03063429515699; source=20.2
+HINDUNILVR,2020: OPM mismatch; category=data source issue; computed=75.21303069150139; source=9861.0
+HINDUNILVR,2020: ROCE differs from source by >5%; category=version difference; computed=363.92028192976056; source=27.2
+HINDUNILVR,2020: ROE differs from source by >5%; category=data source issue; computed=82.09989063069631; source=20.2
+HINDUNILVR,2021: OPM mismatch; category=data source issue; computed=75.27855745513311; source=11626.0
+HINDUNILVR,2021: ROCE differs from source by >5%; category=version difference; computed=74.31094516927466; source=27.2
+HINDUNILVR,2022: OPM mismatch; category=data source issue; computed=75.48526103039318; source=12857.0
+HINDUNILVR,2022: ROCE differs from source by >5%; category=version difference; computed=79.06354782053329; source=27.2
+HINDUNILVR,2023: OPM mismatch; category=data source issue; computed=76.64740838560581; source=14147.0
+HINDUNILVR,2023: ROCE differs from source by >5%; category=version difference; computed=90.16555712982552; source=27.2
+HINDUNILVR,2024: OPM mismatch; category=data source issue; computed=76.31672482874498; source=14659.0
+HINDUNILVR,2024: ROCE differs from source by >5%; category=version difference; computed=90.14629866290271; source=27.2
+HINDUNILVR,TTM: OPM mismatch; category=data source issue; computed=76.44627439715293; source=14759.0
+ICICIBANK,2013: OPM mismatch; category=data source issue; computed=70.58928372507519; source=-15085.0
+ICICIBANK,2014: OPM mismatch; category=data source issue; computed=66.39584470179268; source=-13084.0
+ICICIBANK,2015: OPM mismatch; category=data source issue; computed=70.52980132450331; source=-16120.0
+ICICIBANK,2016: OPM mismatch; category=data source issue; computed=88.12358754680069; source=-26955.0
+ICICIBANK,2016: ROE differs from source by >5%; category=data source issue; computed=11.610757509749126; source=18.8
+ICICIBANK,2017: OPM mismatch; category=data source issue; computed=104.76042008532984; source=-37737.0
+ICICIBANK,2017: ROE differs from source by >5%; category=data source issue; computed=10.837984555394144; source=18.8
+ICICIBANK,2018: OPM mismatch; category=data source issue; computed=117.12300119043788; source=-44906.0
+ICICIBANK,2018: ROE differs from source by >5%; category=data source issue; computed=8.225616921269095; source=18.8
+ICICIBANK,2019: OPM mismatch; category=data source issue; computed=116.38326248228724; source=-50971.0
+ICICIBANK,2019: ROE differs from source by >5%; category=data source issue; computed=4.979300324717951; source=18.8
+ICICIBANK,2020: OPM mismatch; category=data source issue; computed=100.6188410580414; source=-45190.0
+ICICIBANK,2020: ROE differs from source by >5%; category=data source issue; computed=9.128985035783995; source=18.8
+ICICIBANK,2021: OPM mismatch; category=data source issue; computed=102.40682794432668; source=-44805.0
+ICICIBANK,2021: ROE differs from source by >5%; category=data source issue; computed=12.922385729787356; source=18.8
+ICICIBANK,2022: OPM mismatch; category=data source issue; computed=84.68770635278334; source=-26558.0
+ICICIBANK,2023: OPM mismatch; category=data source issue; computed=72.57469004765956; source=-17341.0
+ICICIBANK,2024: OPM mismatch; category=data source issue; computed=62.41380175029464; source=-14152.0
+ICICIBANK,TTM: OPM mismatch; category=data source issue; computed=69.63240303293806; source=-31575.0
+ICICIGI,2013: OPM mismatch; category=data source issue; computed=104.46161515453637; source=-178.0
+ICICIGI,2013: ROCE differs from source by >5%; category=version difference; computed=223.90374331550805; source=22.5
+ICICIGI,2014: OPM mismatch; category=data source issue; computed=105.19301470588236; source=-225.0
+ICICIGI,2014: ROCE differs from source by >5%; category=version difference; computed=191.01921470342523; source=22.5
+ICICIGI,2015: OPM mismatch; category=data source issue; computed=105.24326877657062; source=-221.0
+ICICIGI,2015: ROCE differs from source by >5%; category=version difference; computed=154.22730422730422; source=22.5
+ICICIGI,2016: OPM mismatch; category=data source issue; computed=87.33631692358695; source=764.0
+ICICIGI,2016: ROCE differs from source by >5%; category=version difference; computed=163.17578004324992; source=22.5
+ICICIGI,2017: OPM mismatch; category=data source issue; computed=87.77925531914894; source=919.0
+ICICIGI,2017: ROCE differs from source by >5%; category=version difference; computed=150.7751937984496; source=22.5
+ICICIGI,2018: OPM mismatch; category=data source issue; computed=103.79050925925925; source=-262.0
+ICICIGI,2018: ROCE differs from source by >5%; category=version difference; computed=142.65817747711898; source=22.5
+ICICIGI,2019: OPM mismatch; category=data source issue; computed=85.04882200125414; source=1669.0
+ICICIGI,2019: ROCE differs from source by >5%; category=version difference; computed=161.5802888700085; source=22.5
+ICICIGI,2020: OPM mismatch; category=data source issue; computed=84.61404879742989; source=1772.0
+ICICIGI,2020: ROCE differs from source by >5%; category=version difference; computed=147.45429823236137; source=22.5
+ICICIGI,2021: OPM mismatch; category=data source issue; computed=82.97015048104596; source=2072.0
+ICICIGI,2021: ROCE differs from source by >5%; category=version difference; computed=125.0247402276101; source=22.5
+ICICIGI,2022: OPM mismatch; category=data source issue; computed=93.660302009235; source=1016.0
+ICICIGI,2022: ROCE differs from source by >5%; category=version difference; computed=158.93310753598647; source=22.5
+ICICIGI,2023: OPM mismatch; category=data source issue; computed=92.92906690534795; source=1264.0
+ICICIGI,2023: ROCE differs from source by >5%; category=version difference; computed=158.59337723065178; source=22.5
+ICICIGI,2024: OPM mismatch; category=data source issue; computed=87.42129155073948; source=2577.0
+ICICIGI,2024: ROCE differs from source by >5%; category=version difference; computed=131.54495412844037; source=22.5
+ICICIGI,TTM: OPM mismatch; category=data source issue; computed=85.5671430410712; source=3363.0
+ICICIPRULI,2013: OPM mismatch; category=data source issue; computed=96.27965043695382; source=745.0
+ICICIPRULI,2013: ROCE differs from source by >5%; category=version difference; computed=486.8467558697299; source=8.75
+ICICIPRULI,2013: ROE differs from source by >5%; category=data source issue; computed=38.24791719262812; source=8.07
+ICICIPRULI,2014: OPM mismatch; category=data source issue; computed=93.12865497076024; source=1504.0
+ICICIPRULI,2014: ROCE differs from source by >5%; category=version difference; computed=465.2292950034223; source=8.75
+ICICIPRULI,2014: ROE differs from source by >5%; category=data source issue; computed=35.614875655943415; source=8.07
+ICICIPRULI,2015: OPM mismatch; category=data source issue; computed=95.1963544538937; source=1655.0
+ICICIPRULI,2015: ROCE differs from source by >5%; category=version difference; computed=623.0389363722697; source=8.75
+ICICIPRULI,2015: ROE differs from source by >5%; category=data source issue; computed=31.14909781576448; source=8.07
+ICICIPRULI,2016: OPM mismatch; category=data source issue; computed=91.16984028010936; source=1842.0
+ICICIPRULI,2016: ROCE differs from source by >5%; category=version difference; computed=299.3860201511335; source=8.75
+ICICIPRULI,2016: ROE differs from source by >5%; category=data source issue; computed=30.99755776817584; source=8.07
+ICICIPRULI,2017: OPM mismatch; category=data source issue; computed=95.22424370636767; source=1806.0
+ICICIPRULI,2017: ROCE differs from source by >5%; category=version difference; computed=562.2073056509523; source=8.75
+ICICIPRULI,2017: ROE differs from source by >5%; category=data source issue; computed=26.256634405245084; source=8.07
+ICICIPRULI,2018: OPM mismatch; category=data source issue; computed=95.44190358467245; source=1771.0
+ICICIPRULI,2018: ROCE differs from source by >5%; category=version difference; computed=563.8424094919379; source=8.75
+ICICIPRULI,2018: ROE differs from source by >5%; category=data source issue; computed=24.627319744447824; source=8.07
+ICICIPRULI,2019: OPM mismatch; category=data source issue; computed=98.69522224634011; source=541.0
+ICICIPRULI,2019: ROCE differs from source by >5%; category=version difference; computed=595.5901615485374; source=8.75
+ICICIPRULI,2019: ROE differs from source by >5%; category=data source issue; computed=16.57691747926066; source=8.07
+ICICIPRULI,2020: OPM mismatch; category=data source issue; computed=101.51724137931035; source=-319.0
+ICICIPRULI,2020: ROCE differs from source by >5%; category=version difference; computed=295.88243449327604; source=8.75
+ICICIPRULI,2020: ROE differs from source by >5%; category=data source issue; computed=14.792735338971303; source=8.07
+ICICIPRULI,2021: OPM mismatch; category=data source issue; computed=100.46885143420452; source=-390.0
+ICICIPRULI,2021: ROCE differs from source by >5%; category=version difference; computed=810.6702880977787; source=8.75
+ICICIPRULI,2022: OPM mismatch; category=data source issue; computed=103.40444276634572; source=-2163.0
+ICICIPRULI,2022: ROCE differs from source by >5%; category=version difference; computed=634.5336937632748; source=8.75
+ICICIPRULI,2023: OPM mismatch; category=data source issue; computed=103.48072427592219; source=-1757.0
+ICICIPRULI,2023: ROCE differs from source by >5%; category=version difference; computed=462.6395039858282; source=8.75
+ICICIPRULI,2024: OPM mismatch; category=data source issue; computed=102.02531365231931; source=-1829.0
+ICICIPRULI,2024: ROCE differs from source by >5%; category=version difference; computed=796.04285467427; source=8.75
+ICICIPRULI,TTM: OPM mismatch; category=data source issue; computed=99.5861908936214; source=321.0
+INDIGO,2013: OPM mismatch; category=data source issue; computed=90.7095512332935; source=855.0
+INDIGO,2013: ROCE differs from source by >5%; category=version difference; computed=54266.23376623377; source=24.5
+INDIGO,2014: OPM mismatch; category=data source issue; computed=96.10506431591257; source=433.0
+INDIGO,2014: ROCE differs from source by >5%; category=version difference; computed=58086.956521739135; source=24.5
+INDIGO,2015: OPM mismatch; category=data source issue; computed=86.33393177737881; source=1904.0
+INDIGO,2015: ROCE differs from source by >5%; category=version difference; computed=39592.10526315789; source=24.5
+INDIGO,2016: OPM mismatch; category=data source issue; computed=80.39653035935564; source=3164.0
+INDIGO,2016: ROCE differs from source by >5%; category=version difference; computed=9458.515283842795; source=24.5
+INDIGO,2017: OPM mismatch; category=data source issue; computed=88.06243272335846; source=2219.0
+INDIGO,2017: ROCE differs from source by >5%; category=version difference; computed=10916.0; source=24.5
+INDIGO,2018: OPM mismatch; category=data source issue; computed=86.8381043395161; source=3030.0
+INDIGO,2018: ROCE differs from source by >5%; category=version difference; computed=12989.61038961039; source=24.5
+INDIGO,2019: OPM mismatch; category=data source issue; computed=100.52988033828123; source=-151.0
+INDIGO,2019: ROCE differs from source by >5%; category=version difference; computed=13201.382488479263; source=24.5
+INDIGO,2020: OPM mismatch; category=data source issue; computed=88.62009173285603; source=4069.0
+INDIGO,2020: ROCE differs from source by >5%; category=version difference; computed=12479.52755905512; source=24.5
+INDIGO,2021: OPM mismatch; category=data source issue; computed=99.97950959633904; source=2.0
+INDIGO,2021: ROCE differs from source by >5%; category=version difference; computed=2554.624781849913; source=24.5
+INDIGO,2022: OPM mismatch; category=data source issue; computed=97.84813543635032; source=558.0
+INDIGO,2022: ROCE differs from source by >5%; category=version difference; computed=3833.0815709969793; source=24.5
+INDIGO,2023: OPM mismatch; category=data source issue; computed=88.02483194357713; source=6521.0
+INDIGO,2023: ROCE differs from source by >5%; category=version difference; computed=6075.792141951838; source=24.5
+INDIGO,2024: OPM mismatch; category=data source issue; computed=76.29890862649484; source=16331.0
+INDIGO,2024: ROCE differs from source by >5%; category=version difference; computed=5405.652620760535; source=24.5
+INDIGO,TTM: OPM mismatch; category=data source issue; computed=79.1987028610283; source=15908.0
+INDUSINDBK,2013: OPM mismatch; category=data source issue; computed=27.881999140770443; source=286.0
+INDUSINDBK,2013: ROCE differs from source by >5%; category=version difference; computed=2.7399376457040137; source=7.93
+INDUSINDBK,2014: OPM mismatch; category=data source issue; computed=30.95468863581294; source=335.0
+INDUSINDBK,2015: OPM mismatch; category=data source issue; computed=32.32562938505985; source=288.0
+INDUSINDBK,2016: OPM mismatch; category=data source issue; computed=35.27628032345013; source=329.0
+INDUSINDBK,2017: OPM mismatch; category=data source issue; computed=39.455782312925166; source=379.0
+INDUSINDBK,2018: OPM mismatch; category=data source issue; computed=37.931832648573575; source=942.0
+INDUSINDBK,2019: OPM mismatch; category=data source issue; computed=41.70073222227214; source=-437.0
+INDUSINDBK,2020: OPM mismatch; category=data source issue; computed=43.81405690859187; source=-553.0
+INDUSINDBK,2021: OPM mismatch; category=data source issue; computed=55.16206896551724; source=-2469.0
+INDUSINDBK,2021: ROE differs from source by >5%; category=data source issue; computed=6.5398362734924484; source=15.2
+INDUSINDBK,2022: OPM mismatch; category=data source issue; computed=51.39186295503212; source=-839.0
+INDUSINDBK,2022: ROE differs from source by >5%; category=data source issue; computed=9.667071994632899; source=15.2
+INDUSINDBK,2023: OPM mismatch; category=data source issue; computed=42.68862736471624; source=2067.0
+INDUSINDBK,2024: OPM mismatch; category=data source issue; computed=38.55469091544986; source=2978.0
+INDUSINDBK,TTM: OPM mismatch; category=data source issue; computed=41.02522243082197; source=1323.0
+INFY,2013: ROE differs from source by >5%; category=data source issue; computed=24.81707638048113; source=31.8
+INFY,2014: ROE differs from source by >5%; category=data source issue; computed=23.92993487536492; source=31.8
+INFY,2015: ROE differs from source by >5%; category=data source issue; computed=24.385052034058656; source=31.8
+INFY,2016: ROCE differs from source by >5%; category=version difference; computed=32.7141098730241; source=40.0
+INFY,2016: ROE differs from source by >5%; category=data source issue; computed=21.84665716506867; source=31.8
+INFY,2017: ROCE differs from source by >5%; category=version difference; computed=31.390797599373748; source=40.0
+INFY,2017: ROE differs from source by >5%; category=data source issue; computed=20.80687715635963; source=31.8
+INFY,2018: ROCE differs from source by >5%; category=version difference; computed=34.09115413643855; source=40.0
+INFY,2018: ROE differs from source by >5%; category=data source issue; computed=24.689247262141308; source=31.8
+INFY,2019: ROE differs from source by >5%; category=data source issue; computed=23.726673646609594; source=31.8
+INFY,2020: ROE differs from source by >5%; category=data source issue; computed=25.422459893048128; source=31.8
+INFY,2021: ROE differs from source by >5%; category=data source issue; computed=25.43909051616875; source=31.8
+INFY,2023: ROCE differs from source by >5%; category=version difference; computed=45.19508756839414; source=40.0
+IOC,2013: ROCE differs from source by >5%; category=version difference; computed=11.368101212772087; source=21.31
+IOC,2013: ROE differs from source by >5%; category=data source issue; computed=5.753763662610847; source=25.44
+IOC,2014: ROCE differs from source by >5%; category=version difference; computed=13.686751131555189; source=21.31
+IOC,2014: ROE differs from source by >5%; category=data source issue; computed=10.258713353849778; source=25.44
+IOC,2015: ROCE differs from source by >5%; category=version difference; computed=12.290147691157225; source=21.31
+IOC,2015: ROE differs from source by >5%; category=data source issue; computed=7.078103207810321; source=25.44
+IOC,2016: ROE differs from source by >5%; category=data source issue; computed=13.79528784174261; source=25.44
+IOC,2017: ROE differs from source by >5%; category=data source issue; computed=19.966502115655853; source=25.44
+IOC,2018: ROE differs from source by >5%; category=data source issue; computed=19.869329258654304; source=25.44
+IOC,2019: ROE differs from source by >5%; category=data source issue; computed=15.358898896584835; source=25.44
+IOC,2020: ROCE differs from source by >5%; category=version difference; computed=3.9469243476561804; source=21.31
+IOC,2020: ROE differs from source by >5%; category=data source issue; computed=-1.9664982494391918; source=25.44
+IOC,2021: ROE differs from source by >5%; category=data source issue; computed=19.458502476796795; source=25.44
+IOC,2022: ROE differs from source by >5%; category=data source issue; computed=19.266110008611975; source=25.44
+IOC,2023: ROCE differs from source by >5%; category=version difference; computed=12.402926241262497; source=21.31
+IOC,2023: ROE differs from source by >5%; category=data source issue; computed=8.37669355358178; source=25.44
+IRCTC,2015: ROE differs from source by >5%; category=data source issue; computed=29.504504504504503; source=40.4
+IRCTC,2016: ROCE differs from source by >5%; category=version difference; computed=60.70110701107011; source=53.8
+IRCTC,2016: ROE differs from source by >5%; category=data source issue; computed=34.87084870848708; source=40.4
+IRCTC,2017: ROCE differs from source by >5%; category=version difference; computed=48.41168996188056; source=53.8
+IRCTC,2017: ROE differs from source by >5%; category=data source issue; computed=29.09783989834816; source=40.4
+IRCTC,2018: ROCE differs from source by >5%; category=version difference; computed=39.05759162303665; source=53.8
+IRCTC,2018: ROE differs from source by >5%; category=data source issue; computed=23.141361256544503; source=40.4
+IRCTC,2019: ROCE differs from source by >5%; category=version difference; computed=47.52567693744164; source=53.8
+IRCTC,2019: ROE differs from source by >5%; category=data source issue; computed=28.851540616246496; source=40.4
+IRCTC,2020: ROCE differs from source by >5%; category=version difference; computed=59.3607305936073; source=53.8
+IRCTC,2021: ROCE differs from source by >5%; category=version difference; computed=20.325732899022803; source=53.8
+IRCTC,2021: ROE differs from source by >5%; category=data source issue; computed=12.843406593406591; source=40.4
+IRCTC,2022: ROCE differs from source by >5%; category=version difference; computed=47.89873417721519; source=53.8
+IRCTC,2022: ROE differs from source by >5%; category=data source issue; computed=35.294117647058826; source=40.4
+IRCTC,2024: ROCE differs from source by >5%; category=version difference; computed=44.09537166900421; source=53.8
+IRCTC,2024: ROE differs from source by >5%; category=data source issue; computed=31.535623048538174; source=40.4
+IRFC,2013: ROE differs from source by >5%; category=data source issue; computed=8.163903659680951; source=13.7
+IRFC,2016: ROE differs from source by >5%; category=data source issue; computed=7.366594360086768; source=13.7
+IRFC,2017: ROE differs from source by >5%; category=data source issue; computed=7.7775002081772; source=13.7
+ITC,2013: ROCE differs from source by >5%; category=version difference; computed=51.90455717970765; source=34.76
+ITC,2014: ROCE differs from source by >5%; category=version difference; computed=51.11539721241676; source=34.76
+ITC,2015: ROCE differs from source by >5%; category=version difference; computed=48.370567098890795; source=34.76
+ITC,2016: ROE differs from source by >5%; category=data source issue; computed=22.261012183692596; source=29.47
+ITC,2017: ROE differs from source by >5%; category=data source issue; computed=22.57341693060134; source=29.47
+ITC,2018: ROE differs from source by >5%; category=data source issue; computed=21.88725956960579; source=29.47
+ITC,2019: ROE differs from source by >5%; category=data source issue; computed=21.70406317106576; source=29.47
+ITC,2020: ROE differs from source by >5%; category=data source issue; computed=23.88889740015014; source=29.47
+ITC,2021: ROE differs from source by >5%; category=data source issue; computed=22.17674449434106; source=29.47
+ITC,2023: ROCE differs from source by >5%; category=version difference; computed=40.02533795943047; source=34.76
+JINDALSTEL,2014: ROE differs from source by >5%; category=data source issue; computed=8.385670057496682; source=14.1
+JINDALSTEL,2015: ROCE differs from source by >5%; category=version difference; computed=6.108831883143231; source=13.2
+JINDALSTEL,2015: ROE differs from source by >5%; category=data source issue; computed=-6.900484744796122; source=14.1
+JINDALSTEL,2016: ROCE differs from source by >5%; category=version difference; computed=4.238133101106862; source=13.2
+JINDALSTEL,2016: ROE differs from source by >5%; category=data source issue; computed=-9.517203107658158; source=14.1
+JINDALSTEL,2017: ROCE differs from source by >5%; category=version difference; computed=5.727197270128193; source=13.2
+JINDALSTEL,2017: ROE differs from source by >5%; category=data source issue; computed=-8.44564240790656; source=14.1
+JINDALSTEL,2018: ROCE differs from source by >5%; category=version difference; computed=8.023504710485774; source=13.2
+JINDALSTEL,2018: ROE differs from source by >5%; category=data source issue; computed=-5.3184136909659365; source=14.1
+JINDALSTEL,2019: ROE differs from source by >5%; category=data source issue; computed=-7.517531556802244; source=14.1
+JINDALSTEL,2020: ROE differs from source by >5%; category=data source issue; computed=-1.2446712512057752; source=14.1
+JINDALSTEL,2021: ROCE differs from source by >5%; category=version difference; computed=18.219522073714053; source=13.2
+JINDALSTEL,2022: ROCE differs from source by >5%; category=version difference; computed=27.836016854275652; source=13.2
+JIOFIN,2023: OPM mismatch; category=data source issue; computed=86.66666666666667; source=88.0
+JSWENERGY,2013: ROCE differs from source by >5%; category=version difference; computed=16.947108135818105; source=8.59
+JSWENERGY,2013: ROE differs from source by >5%; category=data source issue; computed=14.522888459058672; source=8.4
+JSWENERGY,2014: ROCE differs from source by >5%; category=version difference; computed=18.444564370090543; source=8.59
+JSWENERGY,2015: ROCE differs from source by >5%; category=version difference; computed=22.721865334285035; source=8.59
+JSWENERGY,2015: ROE differs from source by >5%; category=data source issue; computed=18.063314711359403; source=8.4
+JSWENERGY,2016: ROCE differs from source by >5%; category=version difference; computed=17.784743140926484; source=8.59
+JSWENERGY,2016: ROE differs from source by >5%; category=data source issue; computed=15.045342126957955; source=8.4
+JSWENERGY,2017: ROCE differs from source by >5%; category=version difference; computed=14.34177522453273; source=8.59
+JSWENERGY,2018: ROE differs from source by >5%; category=data source issue; computed=0.7650765076507651; source=8.4
+JSWENERGY,2019: ROCE differs from source by >5%; category=version difference; computed=14.53724806721187; source=8.59
+JSWENERGY,2020: ROCE differs from source by >5%; category=version difference; computed=15.512426696453504; source=8.59
+JSWENERGY,2021: ROCE differs from source by >5%; category=version difference; computed=13.816767199930064; source=8.59
+JSWENERGY,2022: ROCE differs from source by >5%; category=version difference; computed=15.73336368464982; source=8.59
+JSWSTEEL,2013: ROE differs from source by >5%; category=data source issue; computed=5.443891004980955; source=11.66
+JSWSTEEL,2014: ROE differs from source by >5%; category=data source issue; computed=1.8985548313969962; source=11.66
+JSWSTEEL,2016: ROCE differs from source by >5%; category=version difference; computed=7.284616642144842; source=13.36
+JSWSTEEL,2016: ROE differs from source by >5%; category=data source issue; computed=-2.536117262469683; source=11.66
+JSWSTEEL,2017: ROCE differs from source by >5%; category=version difference; computed=18.681135478395294; source=13.36
+JSWSTEEL,2018: ROCE differs from source by >5%; category=version difference; computed=21.870872965232746; source=13.36
+JSWSTEEL,2018: ROE differs from source by >5%; category=data source issue; computed=21.83370240731481; source=11.66
+JSWSTEEL,2019: ROCE differs from source by >5%; category=version difference; computed=23.270187733450136; source=13.36
+JSWSTEEL,2019: ROE differs from source by >5%; category=data source issue; computed=21.623796522488863; source=11.66
+JSWSTEEL,2021: ROCE differs from source by >5%; category=version difference; computed=18.91879511891238; source=13.36
+JSWSTEEL,2021: ROE differs from source by >5%; category=data source issue; computed=16.835600034214355; source=11.66
+JSWSTEEL,2022: ROCE differs from source by >5%; category=version difference; computed=29.178551464159273; source=13.36
+JSWSTEEL,2022: ROE differs from source by >5%; category=data source issue; computed=31.112828209281247; source=11.66
+JSWSTEEL,2023: ROE differs from source by >5%; category=data source issue; computed=6.300327269959662; source=11.66
+KOTAKBANK,2013: OPM mismatch; category=data source issue; computed=60.92452482007751; source=-1789.0
+KOTAKBANK,2014: OPM mismatch; category=data source issue; computed=58.84365092608043; source=-1379.0
+KOTAKBANK,2015: OPM mismatch; category=data source issue; computed=72.96343569337037; source=-3366.0
+KOTAKBANK,2016: OPM mismatch; category=data source issue; computed=56.567983531026364; source=-2263.0
+KOTAKBANK,2017: OPM mismatch; category=data source issue; computed=66.439706145852; source=-3965.0
+KOTAKBANK,2018: OPM mismatch; category=data source issue; computed=66.86960327881899; source=-4141.0
+KOTAKBANK,2019: OPM mismatch; category=data source issue; computed=66.2331132043847; source=-5114.0
+KOTAKBANK,2020: OPM mismatch; category=data source issue; computed=67.44936368524826; source=-5005.0
+KOTAKBANK,2021: OPM mismatch; category=data source issue; computed=90.83485679463742; source=-9958.0
+KOTAKBANK,2022: OPM mismatch; category=data source issue; computed=90.98426246999199; source=-8512.0
+KOTAKBANK,2023: OPM mismatch; category=data source issue; computed=79.44058266707789; source=-5746.0
+KOTAKBANK,2024: OPM mismatch; category=data source issue; computed=83.66733645109092; source=-13382.0
+KOTAKBANK,TTM: OPM mismatch; category=data source issue; computed=79.42172888077062; source=-14146.0
+LICI,2019: ROCE differs from source by >5%; category=version difference; computed=3.1586426903419924; source=63.79
+LICI,2019: ROE differs from source by >5%; category=data source issue; computed=324.32098765432096; source=63.61
+LICI,2020: ROCE differs from source by >5%; category=version difference; computed=5.472533174014213; source=63.79
+LICI,2020: ROE differs from source by >5%; category=data source issue; computed=270.45908183632736; source=63.61
+LICI,2021: ROCE differs from source by >5%; category=version difference; computed=182.46225319396052; source=63.79
+LICI,2021: ROE differs from source by >5%; category=data source issue; computed=43.201626961069145; source=63.61
+LICI,2022: ROCE differs from source by >5%; category=version difference; computed=110.8916130170209; source=63.79
+LICI,2022: ROE differs from source by >5%; category=data source issue; computed=36.38207796789557; source=63.61
+LICI,2023: ROCE differs from source by >5%; category=version difference; computed=90.85934289360414; source=63.79
+LICI,2023: ROE differs from source by >5%; category=data source issue; computed=77.85997015119071; source=63.61
+LICI,2024: ROCE differs from source by >5%; category=version difference; computed=48.755210093500054; source=63.79
+LICI,2024: ROE differs from source by >5%; category=data source issue; computed=41.906244558927455; source=63.61
+LODHA,2011: ROE differs from source by >5%; category=data source issue; computed=35.483870967741936; source=10.7
+LODHA,2012: ROE differs from source by >5%; category=data source issue; computed=33.83658969804618; source=10.7
+LODHA,2015: ROE differs from source by >5%; category=data source issue; computed=24.225865209471767; source=10.7
+LODHA,2016: ROE differs from source by >5%; category=data source issue; computed=17.694437452806444; source=10.7
+LODHA,2019: ROE differs from source by >5%; category=data source issue; computed=42.80135381411091; source=10.7
+LODHA,2020: ROE differs from source by >5%; category=data source issue; computed=16.300527240773285; source=10.7
+LODHA,2021: ROCE differs from source by >5%; category=version difference; computed=5.453667953667954; source=11.1
+LODHA,2021: ROE differs from source by >5%; category=data source issue; computed=1.0437051532941943; source=10.7
+LODHA,2023: ROCE differs from source by >5%; category=version difference; computed=4.727707959305805; source=11.1
+LODHA,2023: ROE differs from source by >5%; category=data source issue; computed=3.8695411829740185; source=10.7
+LT,2013: ROCE differs from source by >5%; category=version difference; computed=884.7425301970757; source=17.18
+LT,2013: ROE differs from source by >5%; category=data source issue; computed=395.1456310679612; source=10.49
+LT,2014: ROCE differs from source by >5%; category=version difference; computed=896.6860465116279; source=17.18
+LT,2014: ROE differs from source by >5%; category=data source issue; computed=303.41614906832297; source=10.49
+LT,2015: ROCE differs from source by >5%; category=version difference; computed=762.2994652406417; source=17.18
+LT,2015: ROE differs from source by >5%; category=data source issue; computed=245.11352418558738; source=10.49
+LT,2016: ROCE differs from source by >5%; category=version difference; computed=766.2844036697247; source=17.18
+LT,2016: ROE differs from source by >5%; category=data source issue; computed=216.09411764705882; source=10.49
+LT,2017: ROCE differs from source by >5%; category=version difference; computed=575.2544529262087; source=17.18
+LT,2017: ROE differs from source by >5%; category=data source issue; computed=206.29770992366412; source=10.49
+LT,2018: ROCE differs from source by >5%; category=version difference; computed=558.9637305699481; source=17.18
+LT,2018: ROE differs from source by >5%; category=data source issue; computed=207.3575129533679; source=10.49
+LT,2019: ROCE differs from source by >5%; category=version difference; computed=522.5219701614551; source=17.18
+LT,2019: ROE differs from source by >5%; category=data source issue; computed=208.80850194154914; source=10.49
+LT,2020: ROCE differs from source by >5%; category=version difference; computed=436.478784040532; source=17.18
+LT,2020: ROE differs from source by >5%; category=data source issue; computed=201.59141376757955; source=10.49
+LT,2021: ROCE differs from source by >5%; category=version difference; computed=389.6692174771661; source=17.18
+LT,2021: ROE differs from source by >5%; category=data source issue; computed=176.90306681270536; source=10.49
+LT,2022: ROCE differs from source by >5%; category=version difference; computed=183.4043723360374; source=17.18
+LT,2022: ROE differs from source by >5%; category=data source issue; computed=72.92133258678611; source=10.49
+LT,2023: ROCE differs from source by >5%; category=version difference; computed=165.75856173826725; source=17.18
+LT,2023: ROE differs from source by >5%; category=data source issue; computed=75.52434908389586; source=10.49
+LT,2024: ROCE differs from source by >5%; category=version difference; computed=144.06221956326652; source=17.18
+LT,2024: ROE differs from source by >5%; category=data source issue; computed=73.76986951364175; source=10.49
+LTIM,2013: ROCE differs from source by >5%; category=version difference; computed=56.70692943420216; source=34.1
+LTIM,2013: ROE differs from source by >5%; category=data source issue; computed=41.97162061239731; source=26.04
+LTIM,2014: ROCE differs from source by >5%; category=version difference; computed=79.30232558139535; source=34.1
+LTIM,2014: ROE differs from source by >5%; category=data source issue; computed=61.86335403726708; source=26.04
+LTIM,2015: ROCE differs from source by >5%; category=version difference; computed=49.19786096256685; source=34.1
+LTIM,2015: ROE differs from source by >5%; category=data source issue; computed=37.95656465942744; source=26.04
+LTIM,2016: ROCE differs from source by >5%; category=version difference; computed=55.73394495412845; source=34.1
+LTIM,2016: ROE differs from source by >5%; category=data source issue; computed=39.34117647058824; source=26.04
+LTIM,2017: ROCE differs from source by >5%; category=version difference; computed=45.06997455470738; source=34.1
+LTIM,2018: ROCE differs from source by >5%; category=version difference; computed=41.78756476683938; source=34.1
+LTIM,2019: ROCE differs from source by >5%; category=version difference; computed=44.65563049254037; source=34.1
+LTIM,2022: ROCE differs from source by >5%; category=version difference; computed=41.351574315963155; source=34.1
+M&M,2013: ROCE differs from source by >5%; category=version difference; computed=20.45734714003945; source=26.98
+M&M,2014: ROCE differs from source by >5%; category=version difference; computed=18.714300372815266; source=26.98
+M&M,2015: ROCE differs from source by >5%; category=version difference; computed=15.04359553381006; source=26.98
+M&M,2016: ROCE differs from source by >5%; category=version difference; computed=16.872657799985305; source=26.98
+M&M,2017: ROCE differs from source by >5%; category=version difference; computed=16.312706900942196; source=26.98
+M&M,2018: ROCE differs from source by >5%; category=version difference; computed=18.982875271114562; source=26.98
+M&M,2019: ROCE differs from source by >5%; category=version difference; computed=16.135377286138354; source=26.98
+M&M,2020: ROCE differs from source by >5%; category=version difference; computed=9.04711578636911; source=26.98
+M&M,2020: ROE differs from source by >5%; category=data source issue; computed=-0.8031224198754034; source=17.99
+M&M,2021: ROCE differs from source by >5%; category=version difference; computed=10.342288084970583; source=26.98
+M&M,2021: ROE differs from source by >5%; category=data source issue; computed=3.636188735510557; source=17.99
+M&M,2022: ROCE differs from source by >5%; category=version difference; computed=14.340805592970304; source=26.98
+M&M,2023: ROCE differs from source by >5%; category=version difference; computed=16.314858054140622; source=26.98
+M&M,2024: ROCE differs from source by >5%; category=version difference; computed=15.04702529010494; source=26.98
+MARUTI,2015: ROCE differs from source by >5%; category=version difference; computed=30.855747678514252; source=23.67
+MARUTI,2016: ROCE differs from source by >5%; category=version difference; computed=34.00006483612669; source=23.67
+MARUTI,2017: ROCE differs from source by >5%; category=version difference; computed=34.13296413642536; source=23.67
+MARUTI,2018: ROCE differs from source by >5%; category=version difference; computed=33.441893158388005; source=23.67
+MARUTI,2019: ROCE differs from source by >5%; category=version difference; computed=29.03580800812664; source=23.67
+MARUTI,2021: ROCE differs from source by >5%; category=version difference; computed=15.943968930281663; source=23.67
+MARUTI,2021: ROE differs from source by >5%; category=data source issue; computed=8.359840764937811; source=15.75
+MARUTI,2022: ROCE differs from source by >5%; category=version difference; computed=13.653401244642122; source=23.67
+MARUTI,2022: ROE differs from source by >5%; category=data source issue; computed=7.012090434279725; source=15.75
+MOTHERSON,2013: ROCE differs from source by >5%; category=version difference; computed=24.99652439872098; source=13.7
+MOTHERSON,2013: ROE differs from source by >5%; category=data source issue; computed=19.746614242027086; source=11.8
+MOTHERSON,2014: ROCE differs from source by >5%; category=version difference; computed=34.72240030773176; source=13.7
+MOTHERSON,2014: ROE differs from source by >5%; category=data source issue; computed=37.07333558634674; source=11.8
+MOTHERSON,2015: ROCE differs from source by >5%; category=version difference; computed=36.144293317563566; source=13.7
+MOTHERSON,2015: ROE differs from source by >5%; category=data source issue; computed=38.86883273164862; source=11.8
+MOTHERSON,2016: ROCE differs from source by >5%; category=version difference; computed=35.59143894515574; source=13.7
+MOTHERSON,2016: ROE differs from source by >5%; category=data source issue; computed=40.34569024334774; source=11.8
+MOTHERSON,2017: ROCE differs from source by >5%; category=version difference; computed=24.257558670318456; source=13.7
+MOTHERSON,2017: ROE differs from source by >5%; category=data source issue; computed=26.25725338491296; source=11.8
+MOTHERSON,2018: ROCE differs from source by >5%; category=version difference; computed=25.930496593938194; source=13.7
+MOTHERSON,2018: ROE differs from source by >5%; category=data source issue; computed=22.865236746256574; source=11.8
+MOTHERSON,2019: ROCE differs from source by >5%; category=version difference; computed=25.252255856336404; source=13.7
+MOTHERSON,2019: ROE differs from source by >5%; category=data source issue; computed=19.13709750980571; source=11.8
+MOTHERSON,2020: ROCE differs from source by >5%; category=version difference; computed=21.707586998401442; source=13.7
+MOTHERSON,2021: ROCE differs from source by >5%; category=version difference; computed=20.16250867665673; source=13.7
+MOTHERSON,2022: ROE differs from source by >5%; category=data source issue; computed=5.741208470953954; source=11.8
+NAUKRI,2013: ROCE differs from source by >5%; category=version difference; computed=23.809523809523807; source=3.65
+NAUKRI,2013: ROE differs from source by >5%; category=data source issue; computed=12.5; source=2.44
+NAUKRI,2014: ROCE differs from source by >5%; category=version difference; computed=21.545319465081725; source=3.65
+NAUKRI,2014: ROE differs from source by >5%; category=data source issue; computed=8.928571428571429; source=2.44
+NAUKRI,2016: ROCE differs from source by >5%; category=version difference; computed=13.082901554404144; source=3.65
+NAUKRI,2016: ROE differs from source by >5%; category=data source issue; computed=7.647440051847052; source=2.44
+NAUKRI,2017: ROE differs from source by >5%; category=data source issue; computed=-2.701005025125628; source=2.44
+NAUKRI,2018: ROCE differs from source by >5%; category=version difference; computed=30.303030303030305; source=3.65
+NAUKRI,2018: ROE differs from source by >5%; category=data source issue; computed=24.49877750611247; source=2.44
+NAUKRI,2019: ROCE differs from source by >5%; category=version difference; computed=29.323899371069185; source=3.65
+NAUKRI,2019: ROE differs from source by >5%; category=data source issue; computed=23.27959103421156; source=2.44
+NAUKRI,2020: ROCE differs from source by >5%; category=version difference; computed=-2.8169014084507045; source=3.65
+NAUKRI,2020: ROE differs from source by >5%; category=data source issue; computed=-11.207289293849659; source=2.44
+NAUKRI,2021: ROCE differs from source by >5%; category=version difference; computed=30.360739791247028; source=3.65
+NAUKRI,2021: ROE differs from source by >5%; category=data source issue; computed=26.278724981467754; source=2.44
+NAUKRI,2022: ROCE differs from source by >5%; category=version difference; computed=82.37605454755577; source=3.65
+NAUKRI,2022: ROE differs from source by >5%; category=data source issue; computed=74.71291033522793; source=2.44
+NESTLEIND,2013: ROCE differs from source by >5%; category=version difference; computed=57.49226876581389; source=185.43
+NESTLEIND,2013: ROE differs from source by >5%; category=data source issue; computed=47.170608108108105; source=135.61
+NESTLEIND,2014: ROCE differs from source by >5%; category=version difference; computed=74.4137206860343; source=185.43
+NESTLEIND,2014: ROE differs from source by >5%; category=data source issue; computed=41.76947479732112; source=135.61
+NESTLEIND,2015: ROCE differs from source by >5%; category=version difference; computed=41.058201058201064; source=185.43
+NESTLEIND,2015: ROE differs from source by >5%; category=data source issue; computed=19.985800496982606; source=135.61
+NESTLEIND,2016: ROCE differs from source by >5%; category=version difference; computed=60.030165912518854; source=185.43
+NESTLEIND,2016: ROE differs from source by >5%; category=data source issue; computed=30.499695307739184; source=135.61
+NESTLEIND,2017: ROCE differs from source by >5%; category=version difference; computed=65.81765557163531; source=185.43
+NESTLEIND,2017: ROE differs from source by >5%; category=data source issue; computed=35.8187134502924; source=135.61
+NESTLEIND,2018: ROCE differs from source by >5%; category=version difference; computed=77.58899676375405; source=185.43
+NESTLEIND,2018: ROE differs from source by >5%; category=data source issue; computed=43.75170160631636; source=135.61
+NESTLEIND,2019: ROCE differs from source by >5%; category=version difference; computed=150.59326056003798; source=185.43
+NESTLEIND,2019: ROE differs from source by >5%; category=data source issue; computed=102.60688216892598; source=135.61
+NESTLEIND,2020: ROCE differs from source by >5%; category=version difference; computed=154.57063711911357; source=185.43
+NESTLEIND,2020: ROE differs from source by >5%; category=data source issue; computed=103.12035661218424; source=135.61
+NESTLEIND,2021: ROCE differs from source by >5%; category=version difference; computed=155.96745027124774; source=185.43
+NESTLEIND,2021: ROE differs from source by >5%; category=data source issue; computed=108.83864337101747; source=135.61
+NESTLEIND,2022: ROCE differs from source by >5%; category=version difference; computed=139.67032967032966; source=185.43
+NESTLEIND,2022: ROE differs from source by >5%; category=data source issue; computed=97.23464823098821; source=135.61
+NESTLEIND,2023: ROCE differs from source by >5%; category=version difference; computed=168.02197802197801; source=185.43
+NESTLEIND,2023: ROE differs from source by >5%; category=data source issue; computed=121.96014640097602; source=135.61
+NESTLEIND,2024: ROCE differs from source by >5%; category=version difference; computed=136.9724770642202; source=185.43
+NESTLEIND,2024: ROE differs from source by >5%; category=data source issue; computed=98.57142857142858; source=135.61
+NHPC,2015: ROCE differs from source by >5%; category=version difference; computed=13.110124264734523; source=7.67
+NHPC,2017: ROCE differs from source by >5%; category=version difference; computed=14.777579702334066; source=7.67
+NHPC,2019: ROCE differs from source by >5%; category=version difference; computed=13.46462377667255; source=7.67
+ONGC,2013: ROCE differs from source by >5%; category=version difference; computed=28.282355929659264; source=19.71
+ONGC,2014: ROCE differs from source by >5%; category=version difference; computed=25.44460262581068; source=19.71
+ONGC,2016: ROE differs from source by >5%; category=data source issue; computed=6.623393693065202; source=14.32
+ONGC,2019: ROCE differs from source by >5%; category=version difference; computed=25.990833939065404; source=19.71
+ONGC,2020: ROE differs from source by >5%; category=data source issue; computed=5.585459084171932; source=14.32
+PFC,2013: ROCE differs from source by >5%; category=version difference; computed=3.676916759115677; source=9.96
+PFC,2014: ROCE differs from source by >5%; category=version difference; computed=4.085960468466346; source=9.96
+PFC,2015: ROCE differs from source by >5%; category=version difference; computed=3.83913244870712; source=9.96
+PFC,2016: ROCE differs from source by >5%; category=version difference; computed=3.8814811059284797; source=9.96
+PFC,2017: ROCE differs from source by >5%; category=version difference; computed=2.2119097057180266; source=9.96
+PFC,2017: ROE differs from source by >5%; category=data source issue; computed=6.068666033383091; source=19.49
+PFC,2018: ROCE differs from source by >5%; category=version difference; computed=2.4520515192781476; source=9.96
+PFC,2019: ROCE differs from source by >5%; category=version difference; computed=3.047515466008875; source=9.96
+PFC,2019: ROE differs from source by >5%; category=data source issue; computed=26.824558052672902; source=19.49
+PFC,2020: ROCE differs from source by >5%; category=version difference; computed=2.1854260551333593; source=9.96
+PFC,2021: ROCE differs from source by >5%; category=version difference; computed=2.7645260108626704; source=9.96
+PFC,2021: ROE differs from source by >5%; category=data source issue; computed=25.86272154294272; source=19.49
+PFC,2022: ROCE differs from source by >5%; category=version difference; computed=3.1983795714551073; source=9.96
+PFC,2022: ROE differs from source by >5%; category=data source issue; computed=26.18449690272895; source=19.49
+PFC,2023: ROCE differs from source by >5%; category=version difference; computed=3.178198430294643; source=9.96
+PFC,2023: ROE differs from source by >5%; category=data source issue; computed=25.165759642577058; source=19.49
+PFC,2024: ROCE differs from source by >5%; category=version difference; computed=3.2966419171910046; source=9.96
+PIDILITIND,2013: ROCE differs from source by >5%; category=version difference; computed=37.74120317820658; source=29.7
+PIDILITIND,2014: ROCE differs from source by >5%; category=version difference; computed=35.53553553553554; source=29.7
+PIDILITIND,2015: ROCE differs from source by >5%; category=version difference; computed=34.83676975945017; source=29.7
+PIDILITIND,2016: ROCE differs from source by >5%; category=version difference; computed=46.13686534216336; source=29.7
+PIDILITIND,2016: ROE differs from source by >5%; category=data source issue; computed=30.591357088703564; source=22.8
+PIDILITIND,2017: ROCE differs from source by >5%; category=version difference; computed=38.58223592042589; source=29.7
+PIDILITIND,2018: ROCE differs from source by >5%; category=version difference; computed=40.38929440389295; source=29.7
+PIDILITIND,2019: ROCE differs from source by >5%; category=version difference; computed=35.22647265900024; source=29.7
+PIDILITIND,2020: ROCE differs from source by >5%; category=version difference; computed=35.26559865092749; source=29.7
+PNB,2013: ROCE differs from source by >5%; category=version difference; computed=58.936141118555994; source=1.63
+PNB,2013: ROE differs from source by >5%; category=data source issue; computed=812.2977346278317; source=8.7
+PNB,2014: ROCE differs from source by >5%; category=version difference; computed=42.65531606593009; source=1.63
+PNB,2014: ROE differs from source by >5%; category=data source issue; computed=393.3618843683083; source=8.7
+PNB,2015: ROCE differs from source by >5%; category=version difference; computed=34.19158361018826; source=1.63
+PNB,2015: ROE differs from source by >5%; category=data source issue; computed=223.2425585813806; source=8.7
+PNB,2016: ROCE differs from source by >5%; category=version difference; computed=21.661931818181817; source=1.63
+PNB,2016: ROE differs from source by >5%; category=data source issue; computed=-163.56011183597388; source=8.7
+PNB,2017: ROCE differs from source by >5%; category=version difference; computed=22.320146074254414; source=1.63
+PNB,2017: ROE differs from source by >5%; category=data source issue; computed=22.212262459662963; source=8.7
+PNB,2018: ROCE differs from source by >5%; category=version difference; computed=14.720114009213535; source=1.63
+PNB,2018: ROE differs from source by >5%; category=data source issue; computed=-184.36596133353632; source=8.7
+PNB,2019: ROCE differs from source by >5%; category=version difference; computed=9.29074078744924; source=1.63
+PNB,2019: ROE differs from source by >5%; category=data source issue; computed=-128.4465366509751; source=8.7
+PNB,2020: ROCE differs from source by >5%; category=version difference; computed=12.404370862677219; source=1.63
+PNB,2021: ROCE differs from source by >5%; category=version difference; computed=18.717862322556073; source=1.63
+PNB,2021: ROE differs from source by >5%; category=data source issue; computed=30.393594225780983; source=8.7
+PNB,2022: ROCE differs from source by >5%; category=version difference; computed=19.64405213345655; source=1.63
+PNB,2022: ROE differs from source by >5%; category=data source issue; computed=39.87348229772472; source=8.7
+PNB,2023: ROCE differs from source by >5%; category=version difference; computed=19.402545916313066; source=1.63
+PNB,2023: ROE differs from source by >5%; category=data source issue; computed=30.667397060166163; source=8.7
+PNB,2024: ROCE differs from source by >5%; category=version difference; computed=20.240171551107935; source=1.63
+PNB,2024: ROE differs from source by >5%; category=data source issue; computed=61.320565191187306; source=8.7
+POWERGRID,2014: ROE differs from source by >5%; category=data source issue; computed=13.107383710876707; source=19.0
+POWERGRID,2015: ROE differs from source by >5%; category=data source issue; computed=13.127292593459766; source=19.0
+POWERGRID,2016: ROE differs from source by >5%; category=data source issue; computed=13.552422105981352; source=19.0
+POWERGRID,2022: ROCE differs from source by >5%; category=version difference; computed=19.20803250167107; source=13.2
+POWERGRID,2023: ROCE differs from source by >5%; category=version difference; computed=19.21884599026511; source=13.2
+POWERGRID,2024: ROCE differs from source by >5%; category=version difference; computed=18.814792036490875; source=13.2
+RECLTD,2018: ROE differs from source by >5%; category=data source issue; computed=13.658401865717442; source=22.2
+RECLTD,2019: ROE differs from source by >5%; category=data source issue; computed=16.618421814392402; source=22.2
+RECLTD,2020: ROE differs from source by >5%; category=data source issue; computed=14.046388111986891; source=22.2
+RELIANCE,2024: ROCE differs from source by >5%; category=version difference; computed=15.180997435805937; source=9.61
+SBILIFE,2013: ROCE differs from source by >5%; category=version difference; computed=26.27923976608187; source=13.2
+SBILIFE,2013: ROE differs from source by >5%; category=data source issue; computed=23.026315789473685; source=12.0
+SBILIFE,2014: ROCE differs from source by >5%; category=version difference; computed=25.476758045292016; source=13.2
+SBILIFE,2014: ROE differs from source by >5%; category=data source issue; computed=21.69249106078665; source=12.0
+SBILIFE,2015: ROCE differs from source by >5%; category=version difference; computed=24.08777120315582; source=13.2
+SBILIFE,2015: ROE differs from source by >5%; category=data source issue; computed=20.09368836291913; source=12.0
+SBILIFE,2016: ROCE differs from source by >5%; category=version difference; computed=22.16353264314388; source=13.2
+SBILIFE,2016: ROE differs from source by >5%; category=data source issue; computed=17.832241707162478; source=12.0
+SBILIFE,2017: ROCE differs from source by >5%; category=version difference; computed=21.73991354466859; source=13.2
+SBILIFE,2017: ROE differs from source by >5%; category=data source issue; computed=17.201008645533143; source=12.0
+SBILIFE,2018: ROCE differs from source by >5%; category=version difference; computed=22.794117647058822; source=13.2
+SBILIFE,2018: ROE differs from source by >5%; category=data source issue; computed=17.61642156862745; source=12.0
+SBILIFE,2019: ROCE differs from source by >5%; category=version difference; computed=22.967265047518477; source=13.2
+SBILIFE,2019: ROE differs from source by >5%; category=data source issue; computed=17.51583949313622; source=12.0
+SBILIFE,2020: ROCE differs from source by >5%; category=version difference; computed=21.502916619009493; source=13.2
+SHREECEM,2013: ROCE differs from source by >5%; category=version difference; computed=34.06079501169135; source=14.8
+SHREECEM,2013: ROE differs from source by >5%; category=data source issue; computed=26.11862643080125; source=12.2
+SHREECEM,2014: ROCE differs from source by >5%; category=version difference; computed=25.274911182541025; source=14.8
+SHREECEM,2015: ROCE differs from source by >5%; category=version difference; computed=23.348942354270953; source=14.8
+SHREECEM,2016: ROCE differs from source by >5%; category=version difference; computed=26.918597126957422; source=14.8
+SHREECEM,2017: ROCE differs from source by >5%; category=version difference; computed=31.976420865309752; source=14.8
+SHREECEM,2017: ROE differs from source by >5%; category=data source issue; computed=17.394128345024683; source=12.2
+SHREECEM,2018: ROCE differs from source by >5%; category=version difference; computed=23.26829268292683; source=14.8
+SHREECEM,2019: ROCE differs from source by >5%; category=version difference; computed=22.97578964245631; source=14.8
+SHREECEM,2020: ROCE differs from source by >5%; category=version difference; computed=24.725712534477477; source=14.8
+SHREECEM,2021: ROCE differs from source by >5%; category=version difference; computed=25.625460940602483; source=14.8
+SHREECEM,2022: ROCE differs from source by >5%; category=version difference; computed=21.716269334830773; source=14.8
+SHREECEM,2024: ROCE differs from source by >5%; category=version difference; computed=22.671867381764994; source=14.8
+SHRIRAMFIN,2013: ROCE differs from source by >5%; category=version difference; computed=5.367842058736863; source=11.3
+SHRIRAMFIN,2014: ROCE differs from source by >5%; category=version difference; computed=4.2490453966907085; source=11.3
+SHRIRAMFIN,2015: ROCE differs from source by >5%; category=version difference; computed=3.025321205839781; source=11.3
+SHRIRAMFIN,2016: ROCE differs from source by >5%; category=version difference; computed=3.0467264783377246; source=11.3
+SHRIRAMFIN,2017: ROCE differs from source by >5%; category=version difference; computed=3.063093833447184; source=11.3
+SHRIRAMFIN,2018: ROCE differs from source by >5%; category=version difference; computed=4.103484622368791; source=11.3
+SHRIRAMFIN,2019: ROCE differs from source by >5%; category=version difference; computed=3.678388863752322; source=11.3
+SHRIRAMFIN,2020: ROCE differs from source by >5%; category=version difference; computed=3.170707938729768; source=11.3
+SHRIRAMFIN,2021: ROCE differs from source by >5%; category=version difference; computed=2.6632777964027037; source=11.3
+SHRIRAMFIN,2022: ROCE differs from source by >5%; category=version difference; computed=2.613859700158222; source=11.3
+SHRIRAMFIN,2022: ROE differs from source by >5%; category=data source issue; computed=10.427284920482851; source=15.9
+SHRIRAMFIN,2023: ROCE differs from source by >5%; category=version difference; computed=4.243816016253117; source=11.3
+SHRIRAMFIN,2024: ROCE differs from source by >5%; category=version difference; computed=4.053617819316557; source=11.3
+SIEMENS,2011: ROCE differs from source by >5%; category=version difference; computed=38.522012578616355; source=25.6
+SIEMENS,2014: ROE differs from source by >5%; category=data source issue; computed=13.782857142857145; source=19.1
+SIEMENS,2015: ROCE differs from source by >5%; category=version difference; computed=37.747957992998835; source=25.6
+SIEMENS,2016: ROCE differs from source by >5%; category=version difference; computed=61.17457527826596; source=25.6
+SIEMENS,2016: ROE differs from source by >5%; category=data source issue; computed=42.83404380420402; source=19.1
+SIEMENS,2018: ROCE differs from source by >5%; category=version difference; computed=19.36377876852633; source=25.6
+SIEMENS,2018: ROE differs from source by >5%; category=data source issue; computed=10.85672972647307; source=19.1
+SIEMENS,2019: ROE differs from source by >5%; category=data source issue; computed=12.144988396507902; source=19.1
+SIEMENS,2020: ROCE differs from source by >5%; category=version difference; computed=13.885377159713444; source=25.6
+SIEMENS,2020: ROE differs from source by >5%; category=data source issue; computed=8.1015592077539; source=19.1
+SIEMENS,2021: ROCE differs from source by >5%; category=version difference; computed=17.12877982803594; source=25.6
+SIEMENS,2021: ROE differs from source by >5%; category=data source issue; computed=10.52478979414323; source=19.1
+SIEMENS,2022: ROCE differs from source by >5%; category=version difference; computed=19.903324287652644; source=25.6
+SIEMENS,2022: ROE differs from source by >5%; category=data source issue; computed=13.290267011197244; source=19.1
+SUNPHARMA,2013: ROCE differs from source by >5%; category=version difference; computed=30.78032786885246; source=17.3
+SUNPHARMA,2013: ROE differs from source by >5%; category=data source issue; computed=23.142094729819878; source=16.7
+SUNPHARMA,2014: ROCE differs from source by >5%; category=version difference; computed=23.878402731670302; source=17.3
+SUNPHARMA,2015: ROCE differs from source by >5%; category=version difference; computed=23.60974764682104; source=17.3
+SUNPHARMA,2017: ROCE differs from source by >5%; category=version difference; computed=23.050438974005854; source=17.3
+SUNPHARMA,2018: ROCE differs from source by >5%; category=version difference; computed=11.285652682806628; source=17.3
+SUNPHARMA,2018: ROE differs from source by >5%; category=data source issue; computed=6.634650519392389; source=16.7
+SUNPHARMA,2019: ROCE differs from source by >5%; category=version difference; computed=11.784758199641777; source=17.3
+SUNPHARMA,2019: ROE differs from source by >5%; category=data source issue; computed=7.747108116593012; source=16.7
+SUNPHARMA,2020: ROE differs from source by >5%; category=data source issue; computed=9.216834198608197; source=16.7
+SUNPHARMA,2021: ROCE differs from source by >5%; category=version difference; computed=9.975760947309862; source=17.3
+SUNPHARMA,2021: ROE differs from source by >5%; category=data source issue; computed=4.889912403417773; source=16.7
+SUNPHARMA,2022: ROE differs from source by >5%; category=data source issue; computed=7.0587990252233865; source=16.7
+SUNPHARMA,2024: OPM mismatch; category=data source issue; computed=26.84289749881436; source=28.0
+TATACONSUM,2016: ROCE differs from source by >5%; category=version difference; computed=5.31509011972109; source=10.6
+TATACONSUM,2016: ROE differs from source by >5%; category=data source issue; computed=-0.5922842964623019; source=8.32
+TATAMOTORS,2013: ROCE differs from source by >5%; category=version difference; computed=27.157290948299455; source=20.1
+TATAMOTORS,2013: ROE differs from source by >5%; category=data source issue; computed=26.505832026994714; source=49.4
+TATAMOTORS,2014: ROCE differs from source by >5%; category=version difference; computed=27.48285094181202; source=20.1
+TATAMOTORS,2014: ROE differs from source by >5%; category=data source issue; computed=21.416377050179864; source=49.4
+TATAMOTORS,2015: ROCE differs from source by >5%; category=version difference; computed=30.76336700751509; source=20.1
+TATAMOTORS,2015: ROE differs from source by >5%; category=data source issue; computed=25.013330489495573; source=49.4
+TATAMOTORS,2016: ROE differs from source by >5%; category=data source issue; computed=14.791265579086026; source=49.4
+TATAMOTORS,2017: ROE differs from source by >5%; category=data source issue; computed=13.015397333884469; source=49.4
+TATAMOTORS,2018: ROE differs from source by >5%; category=data source issue; computed=9.526554051221863; source=49.4
+TATAMOTORS,2019: ROCE differs from source by >5%; category=version difference; computed=-1.2154802409319885; source=20.1
+TATAMOTORS,2019: ROE differs from source by >5%; category=data source issue; computed=-47.73093604081158; source=49.4
+TATAMOTORS,2020: ROCE differs from source by >5%; category=version difference; computed=9.628620247302614; source=20.1
+TATAMOTORS,2020: ROE differs from source by >5%; category=data source issue; computed=-18.984131010320393; source=49.4
+TATAMOTORS,2021: ROCE differs from source by >5%; category=version difference; computed=10.725106141515266; source=20.1
+TATAMOTORS,2021: ROE differs from source by >5%; category=data source issue; computed=-24.245660397849658; source=49.4
+TATAMOTORS,2022: ROCE differs from source by >5%; category=version difference; computed=14.21077430501021; source=20.1
+TATAMOTORS,2022: ROE differs from source by >5%; category=data source issue; computed=-25.378694374004173; source=49.4
+TATAMOTORS,2023: ROE differs from source by >5%; category=data source issue; computed=5.935307356250828; source=49.4
+TATAMOTORS,2024: ROCE differs from source by >5%; category=version difference; computed=31.410185394800855; source=20.1
+TATAMOTORS,2024: ROE differs from source by >5%; category=data source issue; computed=31.472759296273573; source=49.4
+TATAPOWER,2013: ROE differs from source by >5%; category=data source issue; computed=0.9971625456019456; source=11.3
+TATAPOWER,2014: ROE differs from source by >5%; category=data source issue; computed=0.0967663898072736; source=11.3
+TATAPOWER,2015: ROE differs from source by >5%; category=data source issue; computed=3.1917865623690456; source=11.3
+TATAPOWER,2023: ROCE differs from source by >5%; category=version difference; computed=16.23771585221084; source=11.1
+TATASTEEL,2013: ROE differs from source by >5%; category=data source issue; computed=-21.280580592297788; source=6.55
+TATASTEEL,2014: ROCE differs from source by >5%; category=version difference; computed=13.83420240502288; source=7.02
+TATASTEEL,2015: ROE differs from source by >5%; category=data source issue; computed=-12.564994098695333; source=6.55
+TATASTEEL,2016: ROE differs from source by >5%; category=data source issue; computed=-1.136467575230952; source=6.55
+TATASTEEL,2017: ROE differs from source by >5%; category=data source issue; computed=-11.023559586451254; source=6.55
+TATASTEEL,2018: ROCE differs from source by >5%; category=version difference; computed=21.12888679763165; source=7.02
+TATASTEEL,2018: ROE differs from source by >5%; category=data source issue; computed=29.148527213287117; source=6.55
+TATASTEEL,2019: ROCE differs from source by >5%; category=version difference; computed=18.170035524711178; source=7.02
+TATASTEEL,2019: ROE differs from source by >5%; category=data source issue; computed=13.234675371780922; source=6.55
+TATASTEEL,2021: ROCE differs from source by >5%; category=version difference; computed=18.85461472287084; source=7.02
+TATASTEEL,2022: ROCE differs from source by >5%; category=version difference; computed=34.099282120376415; source=7.02
+TATASTEEL,2022: ROE differs from source by >5%; category=data source issue; computed=36.48016916718366; source=6.55
+TATASTEEL,2023: ROCE differs from source by >5%; category=version difference; computed=18.01782151881899; source=7.02
+TATASTEEL,2024: ROE differs from source by >5%; category=data source issue; computed=-5.44665934529158; source=6.55
+TCS,2013: ROCE differs from source by >5%; category=version difference; computed=49.43155512114821; source=64.3
+TCS,2013: ROE differs from source by >5%; category=data source issue; computed=36.51740777253152; source=0.52
+TCS,2014: ROCE differs from source by >5%; category=version difference; computed=54.12996039764002; source=64.3
+TCS,2014: ROE differs from source by >5%; category=data source issue; computed=39.29667649151337; source=0.52
+TCS,2015: ROCE differs from source by >5%; category=version difference; computed=55.30563018453514; source=64.3
+TCS,2015: ROE differs from source by >5%; category=data source issue; computed=39.616865804285574; source=0.52
+TCS,2016: ROCE differs from source by >5%; category=version difference; computed=47.33934405541456; source=64.3
+TCS,2016: ROE differs from source by >5%; category=data source issue; computed=34.2441467807294; source=0.52
+TCS,2017: ROCE differs from source by >5%; category=version difference; computed=42.23206131579252; source=64.3
+TCS,2017: ROE differs from source by >5%; category=data source issue; computed=30.571600900085834; source=0.52
+TCS,2018: ROCE differs from source by >5%; category=version difference; computed=42.35197657393851; source=64.3
+TCS,2018: ROE differs from source by >5%; category=data source issue; computed=30.401278075368854; source=0.52
+TCS,2019: ROCE differs from source by >5%; category=version difference; computed=48.95316619743487; source=64.3
+TCS,2019: ROE differs from source by >5%; category=data source issue; computed=35.28609440332715; source=0.52
+TCS,2020: ROCE differs from source by >5%; category=version difference; computed=50.596966413867825; source=64.3
+TCS,2020: ROE differs from source by >5%; category=data source issue; computed=38.56952666238737; source=0.52
+TCS,2021: ROCE differs from source by >5%; category=version difference; computed=51.4305726535637; source=64.3
+TCS,2021: ROE differs from source by >5%; category=data source issue; computed=37.67311096456215; source=0.52
+TCS,2022: ROCE differs from source by >5%; category=version difference; computed=58.866301556360035; source=64.3
+TCS,2022: ROE differs from source by >5%; category=data source issue; computed=43.13375739014349; source=0.52
+TCS,2023: ROE differs from source by >5%; category=data source issue; computed=46.7829337344068; source=0.52
+TCS,2024: ROE differs from source by >5%; category=data source issue; computed=45.4199714271639; source=0.52
+TECHM,2013: ROCE differs from source by >5%; category=version difference; computed=18.821627975315895; source=11.9
+TECHM,2013: ROE differs from source by >5%; category=data source issue; computed=24.087725764835973; source=8.63
+TECHM,2014: ROCE differs from source by >5%; category=version difference; computed=46.265060240963855; source=11.9
+TECHM,2014: ROE differs from source by >5%; category=data source issue; computed=33.34785449793073; source=8.63
+TECHM,2015: ROCE differs from source by >5%; category=version difference; computed=33.20203892493049; source=11.9
+TECHM,2015: ROE differs from source by >5%; category=data source issue; computed=21.70966688438929; source=8.63
+TECHM,2016: ROCE differs from source by >5%; category=version difference; computed=30.053564596352505; source=11.9
+TECHM,2016: ROE differs from source by >5%; category=data source issue; computed=20.745665136042764; source=8.63
+TECHM,2017: ROCE differs from source by >5%; category=version difference; computed=27.854855923159015; source=11.9
+TECHM,2017: ROE differs from source by >5%; category=data source issue; computed=17.34501429701284; source=8.63
+TECHM,2018: ROCE differs from source by >5%; category=version difference; computed=28.84651600753296; source=11.9
+TECHM,2018: ROE differs from source by >5%; category=data source issue; computed=20.092341983760548; source=8.63
+TECHM,2019: ROCE differs from source by >5%; category=version difference; computed=30.541717158116782; source=11.9
+TECHM,2019: ROE differs from source by >5%; category=data source issue; computed=21.143702243036728; source=8.63
+TECHM,2020: ROCE differs from source by >5%; category=version difference; computed=26.272416905387907; source=11.9
+TECHM,2020: ROE differs from source by >5%; category=data source issue; computed=17.865493054600467; source=8.63
+TECHM,2021: ROCE differs from source by >5%; category=version difference; computed=27.31398112799827; source=11.9
+TECHM,2021: ROE differs from source by >5%; category=data source issue; computed=17.506535290569072; source=8.63
+TECHM,2022: ROCE differs from source by >5%; category=version difference; computed=30.961903470715836; source=11.9
+TECHM,2022: ROE differs from source by >5%; category=data source issue; computed=20.940266309603512; source=8.63
+TECHM,2023: ROCE differs from source by >5%; category=version difference; computed=28.463344638664235; source=11.9
+TECHM,2023: ROE differs from source by >5%; category=data source issue; computed=17.3936398796734; source=8.63
+TECHM,2024: ROCE differs from source by >5%; category=version difference; computed=19.075875144833397; source=11.9
+TITAN,2013: ROCE differs from source by >5%; category=version difference; computed=56.497461928934015; source=22.7
+TITAN,2014: ROCE differs from source by >5%; category=version difference; computed=34.95495495495496; source=22.7
+TITAN,2015: ROCE differs from source by >5%; category=version difference; computed=38.31658291457287; source=22.7
+TITAN,2015: ROE differs from source by >5%; category=data source issue; computed=26.459143968871597; source=32.9
+TITAN,2016: ROCE differs from source by >5%; category=version difference; computed=27.845303867403317; source=22.7
+TITAN,2016: ROE differs from source by >5%; category=data source issue; computed=19.24721984602224; source=32.9
+TITAN,2017: ROE differs from source by >5%; category=data source issue; computed=16.46586345381526; source=32.9
+TITAN,2018: ROE differs from source by >5%; category=data source issue; computed=21.650294695481335; source=32.9
+TITAN,2019: ROE differs from source by >5%; category=data source issue; computed=22.8830313014827; source=32.9
+TITAN,2020: ROE differs from source by >5%; category=data source issue; computed=22.38716449242765; source=32.9
+TITAN,2021: ROCE differs from source by >5%; category=version difference; computed=14.503235629996194; source=22.7
+TITAN,2021: ROE differs from source by >5%; category=data source issue; computed=12.99186341203148; source=32.9
+TITAN,2022: ROE differs from source by >5%; category=data source issue; computed=23.6267870579383; source=32.9
+TITAN,2023: ROE differs from source by >5%; category=data source issue; computed=27.626360644671337; source=32.9
+TORNTPHARM,2013: ROCE differs from source by >5%; category=version difference; computed=33.00236406619385; source=23.2
+TORNTPHARM,2013: ROE differs from source by >5%; category=data source issue; computed=30.590717299578056; source=24.2
+TORNTPHARM,2014: ROCE differs from source by >5%; category=version difference; computed=32.58649093904448; source=23.2
+TORNTPHARM,2014: ROE differs from source by >5%; category=data source issue; computed=34.8922753547031; source=24.2
+TORNTPHARM,2015: ROE differs from source by >5%; category=data source issue; computed=30.148534725010034; source=24.2
+TORNTPHARM,2016: ROCE differs from source by >5%; category=version difference; computed=47.2972972972973; source=23.2
+TORNTPHARM,2016: ROE differs from source by >5%; category=data source issue; computed=49.59931310818546; source=24.2
+TORNTPHARM,2018: ROCE differs from source by >5%; category=version difference; computed=14.866937302661254; source=23.2
+TORNTPHARM,2018: ROE differs from source by >5%; category=data source issue; computed=14.665801427644388; source=24.2
+TORNTPHARM,2019: ROCE differs from source by >5%; category=version difference; computed=15.636904208863701; source=23.2
+TORNTPHARM,2019: ROE differs from source by >5%; category=data source issue; computed=9.227513227513228; source=24.2
+TORNTPHARM,2022: ROE differs from source by >5%; category=data source issue; computed=13.052242566773057; source=24.2
+TORNTPHARM,2024: ROCE differs from source by >5%; category=version difference; computed=33.051166290443945; source=23.2
+TRENT,2013: ROCE differs from source by >5%; category=version difference; computed=4.002541296060992; source=23.8
+TRENT,2013: ROE differs from source by >5%; category=data source issue; computed=-2.1933387489845653; source=27.2
+TRENT,2014: ROCE differs from source by >5%; category=version difference; computed=6.122448979591836; source=23.8
+TRENT,2014: ROE differs from source by >5%; category=data source issue; computed=-1.917255297679112; source=27.2
+TRENT,2015: ROCE differs from source by >5%; category=version difference; computed=17.525162818235643; source=23.8
+TRENT,2015: ROE differs from source by >5%; category=data source issue; computed=9.071729957805907; source=27.2
+TRENT,2016: ROCE differs from source by >5%; category=version difference; computed=9.44206008583691; source=23.8
+TRENT,2016: ROE differs from source by >5%; category=data source issue; computed=3.7568306010928962; source=27.2
+TRENT,2017: ROCE differs from source by >5%; category=version difference; computed=11.0881897885508; source=23.8
+TRENT,2017: ROE differs from source by >5%; category=data source issue; computed=5.4945054945054945; source=27.2
+TRENT,2018: ROCE differs from source by >5%; category=version difference; computed=11.832829808660625; source=23.8
+TRENT,2018: ROE differs from source by >5%; category=data source issue; computed=5.454545454545454; source=27.2
+TRENT,2019: ROCE differs from source by >5%; category=version difference; computed=12.663551401869158; source=23.8
+TRENT,2019: ROE differs from source by >5%; category=data source issue; computed=5.771567436208992; source=27.2
+TRENT,2020: ROE differs from source by >5%; category=data source issue; computed=4.438860971524288; source=27.2
+TRENT,2021: ROCE differs from source by >5%; category=version difference; computed=11.978568694986604; source=23.8
+TRENT,2021: ROE differs from source by >5%; category=data source issue; computed=-7.825335062689148; source=27.2
+TRENT,2022: ROCE differs from source by >5%; category=version difference; computed=10.537452391028355; source=23.8
+TRENT,2022: ROE differs from source by >5%; category=data source issue; computed=1.4805414551607445; source=27.2
+TRENT,2023: ROE differs from source by >5%; category=data source issue; computed=15.177195685670261; source=27.2
+TRENT,2024: ROCE differs from source by >5%; category=version difference; computed=45.38485127261576; source=23.8

@@ -1,0 +1,10 @@
+company_id,metric_type,raw_text,reason
+TCS,compounded_sales_growth,TTM:            5%             ,pattern did not match
+TCS,compounded_profit_growth,TTM:                 8%,pattern did not match
+TCS,roe,Last Year:       52%,pattern did not match
+HDFCBANK,compounded_sales_growth,TTM:            47%,pattern did not match
+HDFCBANK,compounded_profit_growth,TTM:                27%,pattern did not match
+HDFCBANK,roe,Last Year:    17%,pattern did not match
+INFY,compounded_sales_growth,TTM:            3%,pattern did not match
+INFY,compounded_profit_growth,TTM:                 8%,pattern did not match
+INFY,roe,Last Year:     32%,pattern did not match
