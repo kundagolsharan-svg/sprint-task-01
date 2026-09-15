@@ -1,0 +1,984 @@
+rule,severity,table,company_id,year,message
+DQ-05,WARNING,profitandloss,ADANIENSOL,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,AXISBANK,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BAJFINANCE,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BAJFINANCE,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BAJFINANCE,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BAJFINANCE,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BAJFINANCE,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BAJFINANCE,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BAJFINANCE,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BAJFINANCE,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BAJFINANCE,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BAJFINANCE,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BAJFINANCE,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,BANKBARODA,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CANBK,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CHOLAFIN,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,CIPLA,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,COALINDIA,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCBANK,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HDFCLIFE,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HEROMOTOCO,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDALCO,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,HINDUNILVR,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIBANK,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIGI,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,ICICIPRULI,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDUSINDBK,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,JIOFIN,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,KOTAKBANK,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,SUNPHARMA,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2013,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2014,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2015,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2016,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2017,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2018,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2019,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2020,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2021,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2022,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2023,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,2024,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-05,WARNING,profitandloss,INDIGO,TTM,sales > 0 AND ABS(operating_profit/sales*100-opm_percentage) > 1
+DQ-06,WARNING,profitandloss,ADANIENSOL,2014,sales IS NOT NULL AND sales <= 0
+DQ-07,WARNING,cashflow,ABB,2012,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ABB,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ABB,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ABB,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ABB,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ABB,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ABB,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIENSOL,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIENSOL,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIENSOL,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIENSOL,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIENSOL,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIENSOL,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIENT,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIENT,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIENT,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIGREEN,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIGREEN,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIPORTS,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIPOWER,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIPOWER,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIPOWER,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ADANIPOWER,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,AMBUJACEM,2012,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,AMBUJACEM,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,AMBUJACEM,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,APOLLOHOSP,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,APOLLOHOSP,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,APOLLOHOSP,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ASIANPAINT,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ASIANPAINT,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ASIANPAINT,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,AXISBANK,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,AXISBANK,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,AXISBANK,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,AXISBANK,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,AXISBANK,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,AXISBANK,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,AXISBANK,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJAJ-AUTO,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJAJ-AUTO,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJAJ-AUTO,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJAJ-AUTO,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJAJFINSV,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJAJFINSV,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJAJFINSV,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJAJHLDNG,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJAJHLDNG,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJAJHLDNG,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJFINANCE,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJFINANCE,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJFINANCE,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJFINANCE,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BAJFINANCE,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BANKBARODA,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BANKBARODA,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BANKBARODA,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BANKBARODA,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BEL,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BEL,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BEL,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BHARTIARTL,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BHARTIARTL,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BHEL,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BHEL,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BHEL,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BHEL,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BOSCHLTD,2012,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BOSCHLTD,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BOSCHLTD,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BPCL,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BPCL,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BPCL,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BRITANNIA,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,BRITANNIA,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CANBK,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CANBK,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CANBK,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CANBK,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CANBK,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CANBK,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CHOLAFIN,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CHOLAFIN,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CHOLAFIN,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CHOLAFIN,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CHOLAFIN,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CHOLAFIN,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CIPLA,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CIPLA,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CIPLA,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CIPLA,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CIPLA,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,CIPLA,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,COALINDIA,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,COALINDIA,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,COALINDIA,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,COALINDIA,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DABUR,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DABUR,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DABUR,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DABUR,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DABUR,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DABUR,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DIVISLAB,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DIVISLAB,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DIVISLAB,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DIVISLAB,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DIVISLAB,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DIVISLAB,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DIVISLAB,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DIVISLAB,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DLF,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DLF,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DLF,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DLF,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DMART,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DMART,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DMART,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DMART,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DMART,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DMART,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DMART,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DRREDDY,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DRREDDY,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DRREDDY,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DRREDDY,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,DRREDDY,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,EICHERMOT,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,EICHERMOT,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,EICHERMOT,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,EICHERMOT,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,EICHERMOT,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GAIL,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GAIL,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GAIL,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GAIL,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GAIL,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GODREJCP,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GODREJCP,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GODREJCP,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GRASIM,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GRASIM,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GRASIM,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GRASIM,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,GRASIM,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HAL,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HAL,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HAL,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HAL,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HAL,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HAVELLS,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HAVELLS,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HAVELLS,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HAVELLS,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HCLTECH,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HCLTECH,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HDFCBANK,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HDFCBANK,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HDFCBANK,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HDFCBANK,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HDFCLIFE,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HEROMOTOCO,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HEROMOTOCO,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HEROMOTOCO,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HEROMOTOCO,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HINDALCO,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HINDALCO,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HINDUNILVR,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,HINDUNILVR,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ICICIBANK,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ICICIBANK,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ICICIGI,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ICICIPRULI,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ICICIPRULI,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ICICIPRULI,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,INDIGO,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,INDIGO,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,INDUSINDBK,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,INDUSINDBK,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,INDUSINDBK,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,IOC,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,IOC,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,IRCTC,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,IRCTC,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,IRCTC,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,IRFC,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,IRFC,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,IRFC,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,IRFC,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,IRFC,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ITC,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ITC,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ITC,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ITC,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ITC,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ITC,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,JINDALSTEL,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,JINDALSTEL,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,JINDALSTEL,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,JIOFIN,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,JSWENERGY,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,JSWENERGY,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,JSWENERGY,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,JSWENERGY,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,JSWENERGY,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,JSWSTEEL,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,KOTAKBANK,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,KOTAKBANK,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,KOTAKBANK,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,KOTAKBANK,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,KOTAKBANK,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LICI,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LODHA,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LODHA,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LODHA,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LODHA,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LT,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LT,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LT,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LT,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LT,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LT,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LT,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LTIM,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LTIM,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LTIM,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LTIM,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LTIM,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,LTIM,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,M&M,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,M&M,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,M&M,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,M&M,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,M&M,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,MARUTI,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,MARUTI,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,MARUTI,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,MOTHERSON,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,MOTHERSON,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,MOTHERSON,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,MOTHERSON,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,MOTHERSON,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,MOTHERSON,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NAUKRI,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NAUKRI,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NAUKRI,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NAUKRI,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NAUKRI,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NESTLEIND,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NESTLEIND,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NESTLEIND,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NESTLEIND,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NESTLEIND,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NHPC,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NHPC,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NHPC,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NHPC,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NHPC,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NTPC,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NTPC,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NTPC,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NTPC,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NTPC,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,NTPC,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ONGC,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ONGC,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ONGC,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,ONGC,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PFC,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PFC,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PFC,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PFC,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PFC,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PFC,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PIDILITIND,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PIDILITIND,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PIDILITIND,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PIDILITIND,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PIDILITIND,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PIDILITIND,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PIDILITIND,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PNB,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PNB,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PNB,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PNB,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,PNB,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,POWERGRID,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,POWERGRID,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,POWERGRID,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,POWERGRID,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,POWERGRID,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,POWERGRID,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,RECLTD,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,RECLTD,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SBILIFE,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SBILIFE,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SBILIFE,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SBILIFE,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SBIN,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SBIN,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SBIN,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SHREECEM,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SHREECEM,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SHRIRAMFIN,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SHRIRAMFIN,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SHRIRAMFIN,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SHRIRAMFIN,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SIEMENS,2011,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SIEMENS,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SIEMENS,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SIEMENS,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SUNPHARMA,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SUNPHARMA,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SUNPHARMA,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SUNPHARMA,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,SUNPHARMA,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATACONSUM,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATACONSUM,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATACONSUM,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATACONSUM,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATAMOTORS,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATAMOTORS,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATAMOTORS,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATAPOWER,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATAPOWER,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATAPOWER,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATAPOWER,2019,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATAPOWER,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATAPOWER,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATAPOWER,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATAPOWER,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATASTEEL,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TATASTEEL,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TECHM,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TECHM,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TECHM,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TECHM,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TITAN,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TITAN,2017,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TITAN,2018,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TORNTPHARM,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TORNTPHARM,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TORNTPHARM,2015,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TORNTPHARM,2016,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TORNTPHARM,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TORNTPHARM,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TRENT,2013,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TRENT,2014,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TRENT,2020,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TRENT,2024,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TVSMOTOR,2021,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TVSMOTOR,2022,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-07,WARNING,cashflow,TVSMOTOR,2023,net_cash_flow IS NOT NULL AND net_cash_flow != operating_activity + investing_activity + financing_activity
+DQ-08,WARNING,profitandloss,ADANIENT,2014,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,ADANIGREEN,2017,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,ADANIGREEN,2018,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,ADANIGREEN,2019,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,ADANIPOWER,2014,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,ADANIPOWER,2016,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,ADANIPOWER,2017,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,ADANIPOWER,2023,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,AMBUJACEM,2018,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,AXISBANK,2018,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,BANKBARODA,2016,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,BANKBARODA,2018,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,BANKBARODA,2020,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,BHARTIARTL,2019,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,BHARTIARTL,2020,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,BHEL,2016,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,BHEL,2021,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,BHEL,2024,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,CANBK,2016,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,CANBK,2018,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,CANBK,2019,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,DLF,2014,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,DRREDDY,2020,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,GODREJCP,2019,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,GRASIM,2020,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,HDFCLIFE,2024,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,IOC,2020,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,JINDALSTEL,2015,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,JINDALSTEL,2016,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,JINDALSTEL,2017,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,JINDALSTEL,2018,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,JINDALSTEL,2019,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,JSWSTEEL,2016,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,JSWSTEEL,2020,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,LODHA,2021,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,LODHA,2023,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,MOTHERSON,2020,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,NHPC,2020,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,NHPC,2022,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,NTPC,2016,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,NTPC,2019,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,PNB,2016,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,PNB,2018,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,PNB,2019,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,POWERGRID,2019,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,SBIN,2018,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,SHREECEM,2015,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,TATAMOTORS,2019,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,TATAMOTORS,2024,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,TATASTEEL,2020,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,TRENT,2021,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,INDIGO,2019,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,INDIGO,2020,tax_percentage < 0 OR tax_percentage > 100
+DQ-08,WARNING,profitandloss,INDIGO,2024,tax_percentage < 0 OR tax_percentage > 100
+DQ-09,WARNING,profitandloss,AMBUJACEM,2020,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,BHARTIARTL,2018,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,BHARTIARTL,2019,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,BHARTIARTL,2020,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,BHEL,2016,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,BHEL,2018,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,BPCL,2020,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,BPCL,2021,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,BRITANNIA,2021,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,COALINDIA,2014,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,COALINDIA,2016,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,COALINDIA,2017,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,COALINDIA,2018,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,DLF,2016,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,DLF,2020,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,HINDALCO,2016,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,HINDUNILVR,2013,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,HINDUNILVR,2021,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,IOC,2020,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,ITC,2021,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,JSWSTEEL,2016,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,M&M,2020,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,NAUKRI,2015,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,NAUKRI,2017,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,NAUKRI,2020,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,NAUKRI,2023,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,NESTLEIND,2019,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,PNB,2016,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,SBIN,2017,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TATACONSUM,2016,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TATAPOWER,2013,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TATAPOWER,2014,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TATAPOWER,2015,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TATASTEEL,2013,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TATASTEEL,2015,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TATASTEEL,2016,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TATASTEEL,2017,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TATASTEEL,2024,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TECHM,2024,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TORNTPHARM,2022,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TRENT,2013,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TRENT,2014,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,TRENT,2021,dividend_payout < 0 OR dividend_payout > 100
+DQ-09,WARNING,profitandloss,INDIGO,2019,dividend_payout < 0 OR dividend_payout > 100
+DQ-10,WARNING,documents,ADANIENSOL,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIENSOL,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIENSOL,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIENSOL,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIENSOL,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIENSOL,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIENSOL,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIGREEN,2017,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIGREEN,2016,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIGREEN,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIGREEN,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIGREEN,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIGREEN,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIGREEN,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIGREEN,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIGREEN,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPORTS,2019,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPORTS,2018,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPORTS,2017,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPORTS,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPORTS,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPORTS,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPORTS,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPORTS,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPORTS,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPOWER,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPOWER,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPOWER,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPOWER,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPOWER,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ADANIPOWER,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,AMBUJACEM,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,AMBUJACEM,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,AMBUJACEM,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,AMBUJACEM,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,AMBUJACEM,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,APOLLOHOSP,2019,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,APOLLOHOSP,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,APOLLOHOSP,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,APOLLOHOSP,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ASIANPAINT,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ASIANPAINT,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ASIANPAINT,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ASIANPAINT,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ATGL,2018,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ATGL,2017,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ATGL,2016,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ATGL,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ATGL,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ATGL,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ATGL,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ATGL,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ATGL,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ATGL,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,AXISBANK,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,AXISBANK,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,BAJAJ-AUTO,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,BAJAJ-AUTO,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,BAJAJ-AUTO,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,BAJAJFINSV,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,BAJAJFINSV,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,BAJAJHLDNG,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,BAJAJHLDNG,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,BAJFINANCE,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,BAJFINANCE,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,BRITANNIA,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,BRITANNIA,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,CANBK,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,CANBK,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,CHOLAFIN,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,CHOLAFIN,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,CHOLAFIN,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,CIPLA,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,CIPLA,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,COALINDIA,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DABUR,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DABUR,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DLF,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DLF,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DMART,2016,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DMART,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DMART,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DMART,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DMART,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DMART,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DMART,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DMART,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DRREDDY,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DRREDDY,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,DRREDDY,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,EICHERMOT,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,EICHERMOT,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,GAIL,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,GAIL,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,GODREJCP,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,GODREJCP,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,GRASIM,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,GRASIM,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HAL,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HAVELLS,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HAVELLS,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HCLTECH,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HCLTECH,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HCLTECH,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HDFCBANK,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HDFCBANK,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HDFCBANK,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HDFCBANK,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HDFCLIFE,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HDFCLIFE,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HDFCLIFE,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HDFCLIFE,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HDFCLIFE,2008,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HEROMOTOCO,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HEROMOTOCO,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HINDALCO,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HINDALCO,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HINDUNILVR,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,HINDUNILVR,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ICICIBANK,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ICICIGI,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ICICIPRULI,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ICICIPRULI,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ICICIPRULI,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,INDIGO,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,INDIGO,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,INDIGO,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,INDIGO,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,INDIGO,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,INDIGO,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,INDIGO,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,INDUSINDBK,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,INDUSINDBK,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,INFY,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,INFY,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IOC,2024,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IOC,2023,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IOC,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IOC,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRCTC,2019,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRCTC,2018,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRCTC,2017,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRCTC,2016,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRCTC,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRCTC,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRCTC,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRCTC,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRCTC,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRCTC,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRCTC,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2020,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2019,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2018,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2017,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2016,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,IRFC,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2023,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2022,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2021,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2020,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2019,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2018,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2017,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2016,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JIOFIN,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JSWENERGY,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JSWENERGY,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JSWENERGY,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JSWSTEEL,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,JSWSTEEL,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,KOTAKBANK,2023,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,KOTAKBANK,2022,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,KOTAKBANK,2021,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,KOTAKBANK,2017,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,KOTAKBANK,2016,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,KOTAKBANK,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,KOTAKBANK,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,KOTAKBANK,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,KOTAKBANK,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,KOTAKBANK,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,KOTAKBANK,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LICI,2018,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LICI,2017,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LICI,2016,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LICI,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LICI,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LICI,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LICI,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LICI,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LICI,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LICI,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2020,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2019,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2018,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2017,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2016,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LODHA,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LT,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LT,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LTIM,2016,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LTIM,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LTIM,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LTIM,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LTIM,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LTIM,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LTIM,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,LTIM,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,M&M,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,M&M,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,MARUTI,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,MARUTI,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,MOTHERSON,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,MOTHERSON,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,NAUKRI,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,NAUKRI,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,NHPC,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,NHPC,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,NTPC,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,NTPC,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ONGC,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ONGC,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,ONGC,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,PFC,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,PFC,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,PIDILITIND,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,PIDILITIND,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,PIDILITIND,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,PNB,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,PNB,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,POWERGRID,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,POWERGRID,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,RECLTD,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,RECLTD,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,RECLTD,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,RELIANCE,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,RELIANCE,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,RELIANCE,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SBILIFE,2017,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SBILIFE,2016,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SBILIFE,2015,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SBILIFE,2014,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SBILIFE,2013,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SBILIFE,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SBILIFE,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SBILIFE,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SBILIFE,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SBIN,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SHREECEM,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SHREECEM,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SHREECEM,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SHRIRAMFIN,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SHRIRAMFIN,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SHRIRAMFIN,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SIEMENS,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,SIEMENS,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TATACONSUM,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TATACONSUM,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TATAMOTORS,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TATAMOTORS,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TATAPOWER,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TATAPOWER,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TATASTEEL,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TATASTEEL,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TCS,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TCS,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TECHM,2012,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TECHM,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TECHM,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TECHM,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TITAN,2011,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TITAN,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TITAN,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TORNTPHARM,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TORNTPHARM,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TRENT,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TRENT,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TVSMOTOR,2010,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-10,WARNING,documents,TVSMOTOR,2009,annual_report IS NOT NULL AND annual_report NOT LIKE 'http%'
+DQ-11,WARNING,profitandloss,TATAPOWER,2014,eps IS NOT NULL AND sales > 0 AND eps < 0 AND net_profit > 0
